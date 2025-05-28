@@ -58,22 +58,5 @@ if (!require(ggplot2)) {install.packages("ggplot2")}; library(ggplot2)
 source("meanDifference.R")
 
 # have you heard about the generalized linear (mixed) model? perhaps a linear regression?
-ggplot(datos, aes(x=chatAnx,y=aff_score)) + 
-  stat_summary() +
-  geom_smooth(method = "lm", se=F) +
-  geom_hline(yintercept = mean(datos$aff_score), col="red")
-  
 
 # what is the slope between those two means?
-m <- lm(aff_score ~ chatAnx, datos)
-summary(m)
-mean(datos$aff_score)
-m <- lm(aff_score ~ chat, datos)
-summary(m)
-
-
-summary(lm(aff_score~ (bfi10_extraversion+bfi10_agreeableness+
-             bfi10_conscientiousness+bfi10_neuroticism+bfi10_openness)*chatAnx, datos))
-summary(lm(aff_score~(scl90_anxiety+scl90_OCD+scl90_depression+scl90_interSens+
-             scl90_psychotic+scl90_paranoidId+scl90_angerHost+scl90_phobic)*chatAnx, datos))
-
