@@ -299,9 +299,9 @@ ggplot(X, aes(x=X)) +
 # # # # # Normal Distribution # # # # #
 
 # Number of random samples
-N <- 1000 
+N <- 1000
 
-# simulate a distribution of IQ (mean 100 and sd 15)
+# simulate a distribution of IQ (M 100 and SD 15)
 iq_dist <- rnorm(N, mean = 100, sd = 15)
 
 # see the histogram
