@@ -127,9 +127,13 @@ mat[mat[,1] < 3,]
 
 
 # # # # start writing section # # # # 
-# what is the proportion of numbers larger than 1 in the mat2 matrix?
+# what is the proportion of numbers larger than 1 in the mat2 array?
+sum(mat2 > 1) / length(mat2)
 
 # Can you multiply two matrices?
+mat * mat
+mat2 * mat2
+mat %*% t(mat)
 
 
 
@@ -138,7 +142,7 @@ mat[mat[,1] < 3,]
 
 
 # useful way to install packages
-if (!require(mvtnorm)) {install.packages("mvtnorm")}; library (mvtnorm)
+if (!require(mvtnorm)) {install.packages("mvtnorm")}; library(mvtnorm)
 
 
 
@@ -329,8 +333,8 @@ hist(beta,10)
 # two means
 mu <- c(2,0)
 # sigma matrix (variance-covariance matrix)
-sigma <- matrix(c(  1, -1,
-                    -1,   2), nrow = 2, ncol = 2)
+sigma <- matrix(c( 1, +1,
+                  +1,  2), nrow = 2, ncol = 2)
 # simulate N data points
 bvn5 <- mvtnorm::rmvnorm(N,mu,sigma)
 

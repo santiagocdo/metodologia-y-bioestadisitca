@@ -25,7 +25,7 @@ participant_id,sex,age,chat,order,scl90_anxiety,scl90_OCD,scl90_depression,scl90
 10117133,Female,50,Non-Anxious,first-Anxious,0,6,3,3,2,0,1,0,11,9,8,10,9,1
 10117140,Male,42,Anxious,first-Anxious,0,0,0,0,0,0,0,0,8,8,8,8,8,-1.333333333
 10117140,Male,42,Non-Anxious,first-Anxious,0,0,0,0,0,0,0,0,8,8,8,8,8,2
-10117146,Male,48,Anxious,second-Anxious,3,6,,3,0,1,1,0,9,7,8,8,9,-0.833333333
+10117146,Male,48,Anxious,second-Anxious,3,6,6,3,0,1,1,0,9,7,8,8,9,-0.833333333
 10117146,Male,48,Non-Anxious,second-Anxious,3,6,6,3,0,1,1,0,9,7,8,8,9,1
 10117148,Male,43,Anxious,first-Anxious,19,22,35,14,5,1,6,0,8,9,4,8,8,2
 10117148,Male,43,Non-Anxious,first-Anxious,19,22,35,14,5,1,6,0,8,9,4,8,8,0.833333333
@@ -140,7 +140,7 @@ participant_id,sex,age,chat,order,scl90_anxiety,scl90_OCD,scl90_depression,scl90
 10291341,Female,46,Anxious,second-Anxious,1,1,11,4,1,1,1,0,7,9,10,8,5,-0.166666667
 10291341,Female,46,Non-Anxious,second-Anxious,1,1,11,4,1,1,1,0,7,9,10,8,5,1.333333333
 10295692,Male,33,Anxious,first-Anxious,1,1,5,1,3,1,0,1,9,8,8,10,7,-0.833333333
-10295692,Male,33,Non-Anxious,first-Anxious,1,1,5,1,3,1,0,1,#9,8,8,10,7,0.166666667
+10295692,Male,33,Non-Anxious,first-Anxious,1,1,5,1,3,1,0,1,9,8,8,10,7,0.166666667
 10310934,Male,23,Anxious,first-Anxious,2,9,10,12,1,2,7,1,7,11,4,13,9,2
 10310934,Male,23,Non-Anxious,first-Anxious,2,9,10,12,1,2,7,1,7,11,4,13,9,0.5
 10314870,Female,47,Anxious,first-Anxious,0,0,0,0,0,0,1,0,8,9,8,7,9,1
