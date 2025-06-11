@@ -109,8 +109,17 @@ p + theme_dark()
 # # # 6. Inferential Statistics # # ####
 
 # is a distribution normally distributed?
+ggplot(datos, aes(x=aff_score)) + geom_histogram()
 
 # how can we test it?
+shapiro.test(datos$aff_score)
+
+# obtain the difference between the two x values?
+anx_aff_score <- datos$aff_score[datos$chat=="Anxious"]
+non_aff_score <- datos$aff_score[datos$chat=="Non-Anxious"]
+mean(anx_aff_score)
+mean(non_aff_score)
+mean(non_aff_score) - mean(anx_aff_score)
 
 # obtain the difference between the two x values?
 
@@ -118,28 +127,42 @@ p + theme_dark()
 
 # In the classic approach. What is the classic approach?
 source("meanDifference.R")
+meanDifference(anx_aff_score, non_aff_score, T)
 
 # have you heard about the generalized linear (mixed) model? perhaps a linear regression?
-
+model <- lm(aff_score ~ chat, datos)
 # see the summary
-
+summary(model)
 
 # what is the slope between those two means?
 
-# an alternative approach: model comparisons
+# null model
+m0 <- lm(aff_score ~ 1, datos)
 
-# null model (aff_score ~ 1)
-
-# my model (aff_score ~ chat)
+# my model
+m1 <- lm(aff_score ~ chat, datos)
 
 # comparing two models with a likelihood ratio test
+anova(m0, m1)
 
 # other alternatives to compare models
 # log-likelihood or model evidence (higher=better)
-
+logLik(m0)
+logLik(m1)
 # Bayesian Information Criterion (lower=better)
-
+BIC(m0,m1)
 # Akaike Information Criterion (lower=better)
+AIC(m0,m1)
 
 # can we use aff_score in a GLM (linear regression) if it is not normally distributed?
+hist(datos$aff_score)
+shapiro.test(datos$aff_score)
 
+# what are the assumptions of this model?
+
+# 1 normal distributed residuals
+hist(m1$residuals)
+shapiro.test(m1$residuals)
+
+# 2 independence between errors and regressors (x)
+t.test(m1$residuals~datos$chatAnx)
