@@ -236,3 +236,15 @@ summary(lm(aff_score ~ anxiety_group * chatAnx, datos))
 
 
 
+
+
+
+# visualize
+ggplot(datos, aes(x=chatAnx,y=aff_score,col=as.factor(anxiety_group))) + 
+  stat_summary() + geom_smooth()
+
+m <- lm(aff_score ~ chatAnx*anxiety_group,datos)
+
+hist(m$residuals)
+
+ks.test(m$residuals[!duplicated(m$residuals)],"pnorm")

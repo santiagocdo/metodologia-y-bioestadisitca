@@ -130,7 +130,7 @@ source("meanDifference.R")
 meanDifference(anx_aff_score, non_aff_score, T)
 
 # have you heard about the generalized linear (mixed) model? perhaps a linear regression?
-model <- lm(aff_score ~ chat, datos)
+model <- lm(aff_score ~ chatAnx, datos)
 # see the summary
 summary(model)
 
@@ -140,7 +140,7 @@ summary(model)
 m0 <- lm(aff_score ~ 1, datos)
 
 # my model
-m1 <- lm(aff_score ~ chat, datos)
+m1 <- lm(aff_score ~ chatAnx, datos)
 
 # comparing two models with a likelihood ratio test
 anova(m0, m1)
@@ -160,9 +160,18 @@ shapiro.test(datos$aff_score)
 
 # what are the assumptions of this model?
 
+model <- lm(aff_score ~ chatAnx, datos)
+
 # 1 normal distributed residuals
-hist(m1$residuals)
-shapiro.test(m1$residuals)
+hist(model$residuals)
+shapiro.test(model$residuals) # Shapiro-Wilk Test
+# ks.test(m1$residuals) # Kolmogorov-Smirnov Test
 
 # 2 independence between errors and regressors (x)
-t.test(m1$residuals~datos$chatAnx)
+t.test(model$residuals~datos$chatAnx)
+plot(model, which = 1, add.smooth = FALSE)
+plot(model, which = 2)
+
+# 3 variance should be equal across regressors (x)
+bartlett.test(aff_score ~ chatAnx, data = datos)
+
