@@ -238,13 +238,42 @@ summary(lm(aff_score ~ anxiety_group * chatAnx, datos))
 
 
 
-
+# # # 1. read the data base  # # ####
+datos <- read.csv("ejercicio2.csv")
+# create a binary coded data for the condition
+datos$chatAnx <- ifelse(datos$chat=="Anxious",1,0)
+datos$anxiety_group <- ifelse(datos$scl90_anxiety > median(datos$scl90_anxiety), "High (1)", "Low (0)")
 # visualize
 ggplot(datos, aes(x=chatAnx,y=aff_score,col=as.factor(anxiety_group))) + 
   stat_summary() + geom_smooth()
 
-m <- lm(aff_score ~ chatAnx*anxiety_group,datos)
+model <- lm(aff_score ~ chatAnx, datos)
 
-hist(m$residuals)
+hist(model$residuals)
+sum(model$residuals)
 
-ks.test(m$residuals[!duplicated(m$residuals)],"pnorm")
+ks.test(model$residuals[!duplicated(model$residuals)],"pnorm")
+
+library(lmerTest)
+library(lme4)
+model <- lmer(aff_score ~ chatAnx + (chatAnx|participant_id), datos)
+summary(model)
+
+# as.data.frame(ranef(model)$participant)
+datos$predicted_outcome <- predict(model)
+
+pR2 <- ggplot(datos, aes(x = chatAnx, y = aff_score)) +
+  geom_line(aes(y = predicted_outcome, group = participant_id), 
+            size = .3, alpha = .5) + # Model predictions
+  stat_summary(fun.data = "mean_cl_boot") + #geom_point(alpha = 0.6) +
+  geom_smooth(method = "lm", se=F, col="black") +
+  labs(title = "Random Effect", 
+       x = "Chatbot condition ", y = "Affiliation Score") +
+  scale_x_continuous(breaks = c(0,1), 
+                     labels = c("Non-Anxious (0)","Anxious (1)"),
+                     limits = c(-.3,1.3)) + 
+  coord_cartesian(ylim = c(-2,2)) +
+  theme_classic()
+
+library(ggpubr)
+ggarrange(pF, pR, pR2, ncol=3)

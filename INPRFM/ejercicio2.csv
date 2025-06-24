@@ -1,0 +1,1069 @@
+participant_id,Response,counterbalance,order,question,chat_condition,questionFull,scl90_somatization,scl90_anxiety,scl90_OCD,scl90_depression,scl90_interSens,scl90_psychotic,scl90_paranoidId,scl90_angerHost,scl90_phobic,scl90_addItems,bfi10_extraversion,bfi10_agreeableness,bfi10_conscientiousness,bfi10_neuroticism,bfi10_openness,chat,quest,aff_score
+9804092,3,A,Normal first,similar,alex_non,I felt that <br>we are similar,0,1,0,4,3,0,0,0,0,1,9,6,7,8,9,Non-Anxious,similar,0
+9804092,3,A,Normal first,similar,alex_non,I felt that <br>we are similar,0,1,0,4,3,0,0,0,0,1,9,6,7,8,9,Anxious,similar,0
+9804092,3,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,0,1,0,4,3,0,0,0,0,1,9,6,7,8,9,Non-Anxious,enjoy,0
+9804092,4,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,0,1,0,4,3,0,0,0,0,1,9,6,7,8,9,Anxious,enjoy,1
+9804092,2,A,Normal first,distant,alex_non,I felt distant <br>from them,0,1,0,4,3,0,0,0,0,1,9,6,7,8,9,Non-Anxious,distant,1
+9804092,2,A,Normal first,distant,alex_non,I felt distant <br>from them,0,1,0,4,3,0,0,0,0,1,9,6,7,8,9,Anxious,distant,1
+9804092,3,A,Normal first,understood,alex_non,I felt that <br>they understood me,0,1,0,4,3,0,0,0,0,1,9,6,7,8,9,Non-Anxious,understood,0
+9804092,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,0,1,0,4,3,0,0,0,0,1,9,6,7,8,9,Anxious,understood,1
+9804092,2,A,Normal first,different,alex_non,I felt that they were <br>different from me,0,1,0,4,3,0,0,0,0,1,9,6,7,8,9,Non-Anxious,different,1
+9804092,2,A,Normal first,different,alex_non,I felt that they were <br>different from me,0,1,0,4,3,0,0,0,0,1,9,6,7,8,9,Anxious,different,1
+9804092,4,A,Normal first,chat-again,alex_non,I would chat <br>with them again,0,1,0,4,3,0,0,0,0,1,9,6,7,8,9,Non-Anxious,chat-again,1
+9804092,2,A,Normal first,chat-again,alex_non,I would chat <br>with them again,0,1,0,4,3,0,0,0,0,1,9,6,7,8,9,Anxious,chat-again,-1
+9804125,2,A,Normal first,similar,alex_non,I felt that <br>we are similar,2,0,0,0,0,0,0,0,0,1,9,8,8,9,10,Non-Anxious,similar,-1
+9804125,2,A,Normal first,similar,alex_non,I felt that <br>we are similar,2,0,0,0,0,0,0,0,0,1,9,8,8,9,10,Anxious,similar,-1
+9804125,3,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,2,0,0,0,0,0,0,0,0,1,9,8,8,9,10,Non-Anxious,enjoy,0
+9804125,3,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,2,0,0,0,0,0,0,0,0,1,9,8,8,9,10,Anxious,enjoy,0
+9804125,4,A,Normal first,distant,alex_non,I felt distant <br>from them,2,0,0,0,0,0,0,0,0,1,9,8,8,9,10,Non-Anxious,distant,-1
+9804125,4,A,Normal first,distant,alex_non,I felt distant <br>from them,2,0,0,0,0,0,0,0,0,1,9,8,8,9,10,Anxious,distant,-1
+9804125,2,A,Normal first,understood,alex_non,I felt that <br>they understood me,2,0,0,0,0,0,0,0,0,1,9,8,8,9,10,Non-Anxious,understood,-1
+9804125,2,A,Normal first,understood,alex_non,I felt that <br>they understood me,2,0,0,0,0,0,0,0,0,1,9,8,8,9,10,Anxious,understood,-1
+9804125,4,A,Normal first,different,alex_non,I felt that they were <br>different from me,2,0,0,0,0,0,0,0,0,1,9,8,8,9,10,Non-Anxious,different,-1
+9804125,4,A,Normal first,different,alex_non,I felt that they were <br>different from me,2,0,0,0,0,0,0,0,0,1,9,8,8,9,10,Anxious,different,-1
+9804125,3,A,Normal first,chat-again,alex_non,I would chat <br>with them again,2,0,0,0,0,0,0,0,0,1,9,8,8,9,10,Non-Anxious,chat-again,0
+9804125,2,A,Normal first,chat-again,alex_non,I would chat <br>with them again,2,0,0,0,0,0,0,0,0,1,9,8,8,9,10,Anxious,chat-again,-1
+9804355,4,A,Normal first,similar,alex_non,I felt that <br>we are similar,0,0,0,0,0,0,0,0,0,2,9,6,8,7,10,Non-Anxious,similar,1
+9804355,2,A,Normal first,similar,alex_non,I felt that <br>we are similar,0,0,0,0,0,0,0,0,0,2,9,6,8,7,10,Anxious,similar,-1
+9804355,4,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,0,0,0,0,0,0,0,0,0,2,9,6,8,7,10,Non-Anxious,enjoy,1
+9804355,2,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,0,0,0,0,0,0,0,0,0,2,9,6,8,7,10,Anxious,enjoy,-1
+9804355,2,A,Normal first,distant,alex_non,I felt distant <br>from them,0,0,0,0,0,0,0,0,0,2,9,6,8,7,10,Non-Anxious,distant,1
+9804355,5,A,Normal first,distant,alex_non,I felt distant <br>from them,0,0,0,0,0,0,0,0,0,2,9,6,8,7,10,Anxious,distant,-2
+9804355,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,0,0,0,0,0,0,0,0,0,2,9,6,8,7,10,Non-Anxious,understood,1
+9804355,2,A,Normal first,understood,alex_non,I felt that <br>they understood me,0,0,0,0,0,0,0,0,0,2,9,6,8,7,10,Anxious,understood,-1
+9804355,2,A,Normal first,different,alex_non,I felt that they were <br>different from me,0,0,0,0,0,0,0,0,0,2,9,6,8,7,10,Non-Anxious,different,1
+9804355,5,A,Normal first,different,alex_non,I felt that they were <br>different from me,0,0,0,0,0,0,0,0,0,2,9,6,8,7,10,Anxious,different,-2
+9804355,4,A,Normal first,chat-again,alex_non,I would chat <br>with them again,0,0,0,0,0,0,0,0,0,2,9,6,8,7,10,Non-Anxious,chat-again,1
+9804355,2,A,Normal first,chat-again,alex_non,I would chat <br>with them again,0,0,0,0,0,0,0,0,0,2,9,6,8,7,10,Anxious,chat-again,-1
+9804410,4,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,5,8,7,25,23,2,1,2,6,6,8,9,8,9,5,Anxious,similar,1
+9804410,2,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,5,8,7,25,23,2,1,2,6,6,8,9,8,9,5,Non-Anxious,similar,-1
+9804410,2,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,5,8,7,25,23,2,1,2,6,6,8,9,8,9,5,Anxious,enjoy,-1
+9804410,4,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,5,8,7,25,23,2,1,2,6,6,8,9,8,9,5,Non-Anxious,enjoy,1
+9804410,4,A,Anxious first,distant,pat_anx,I felt distant <br>from them,5,8,7,25,23,2,1,2,6,6,8,9,8,9,5,Anxious,distant,-1
+9804410,2,A,Anxious first,distant,pat_anx,I felt distant <br>from them,5,8,7,25,23,2,1,2,6,6,8,9,8,9,5,Non-Anxious,distant,1
+9804410,4,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,5,8,7,25,23,2,1,2,6,6,8,9,8,9,5,Anxious,understood,1
+9804410,2,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,5,8,7,25,23,2,1,2,6,6,8,9,8,9,5,Non-Anxious,understood,-1
+9804410,2,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,5,8,7,25,23,2,1,2,6,6,8,9,8,9,5,Anxious,different,1
+9804410,4,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,5,8,7,25,23,2,1,2,6,6,8,9,8,9,5,Non-Anxious,different,-1
+9804410,2,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,5,8,7,25,23,2,1,2,6,6,8,9,8,9,5,Anxious,chat-again,-1
+9804410,4,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,5,8,7,25,23,2,1,2,6,6,8,9,8,9,5,Non-Anxious,chat-again,1
+9804421,2,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,0,0,0,0,0,2,0,0,0,0,8,10,8,8,9,Anxious,similar,-1
+9804421,3,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,0,0,0,0,0,2,0,0,0,0,8,10,8,8,9,Non-Anxious,similar,0
+9804421,2,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,0,0,0,0,0,2,0,0,0,0,8,10,8,8,9,Anxious,enjoy,-1
+9804421,3,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,0,0,0,0,0,2,0,0,0,0,8,10,8,8,9,Non-Anxious,enjoy,0
+9804421,4,A,Anxious first,distant,pat_anx,I felt distant <br>from them,0,0,0,0,0,2,0,0,0,0,8,10,8,8,9,Anxious,distant,-1
+9804421,2,A,Anxious first,distant,pat_anx,I felt distant <br>from them,0,0,0,0,0,2,0,0,0,0,8,10,8,8,9,Non-Anxious,distant,1
+9804421,2,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,0,0,0,0,0,2,0,0,0,0,8,10,8,8,9,Anxious,understood,-1
+9804421,3,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,0,0,0,0,0,2,0,0,0,0,8,10,8,8,9,Non-Anxious,understood,0
+9804421,4,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,0,0,0,0,0,2,0,0,0,0,8,10,8,8,9,Anxious,different,-1
+9804421,2,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,0,0,0,0,0,2,0,0,0,0,8,10,8,8,9,Non-Anxious,different,1
+9804421,1,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,0,0,0,0,0,2,0,0,0,0,8,10,8,8,9,Anxious,chat-again,-2
+9804421,3,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,0,0,0,0,0,2,0,0,0,0,8,10,8,8,9,Non-Anxious,chat-again,0
+9804579,2,A,Normal first,similar,alex_non,I felt that <br>we are similar,3,1,5,4,5,3,1,2,4,0,8,10,8,10,5,Non-Anxious,similar,-1
+9804579,3,A,Normal first,similar,alex_non,I felt that <br>we are similar,3,1,5,4,5,3,1,2,4,0,8,10,8,10,5,Anxious,similar,0
+9804579,4,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,3,1,5,4,5,3,1,2,4,0,8,10,8,10,5,Non-Anxious,enjoy,1
+9804579,3,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,3,1,5,4,5,3,1,2,4,0,8,10,8,10,5,Anxious,enjoy,0
+9804579,2,A,Normal first,distant,alex_non,I felt distant <br>from them,3,1,5,4,5,3,1,2,4,0,8,10,8,10,5,Non-Anxious,distant,1
+9804579,4,A,Normal first,distant,alex_non,I felt distant <br>from them,3,1,5,4,5,3,1,2,4,0,8,10,8,10,5,Anxious,distant,-1
+9804579,3,A,Normal first,understood,alex_non,I felt that <br>they understood me,3,1,5,4,5,3,1,2,4,0,8,10,8,10,5,Non-Anxious,understood,0
+9804579,2,A,Normal first,understood,alex_non,I felt that <br>they understood me,3,1,5,4,5,3,1,2,4,0,8,10,8,10,5,Anxious,understood,-1
+9804579,2,A,Normal first,different,alex_non,I felt that they were <br>different from me,3,1,5,4,5,3,1,2,4,0,8,10,8,10,5,Non-Anxious,different,1
+9804579,3,A,Normal first,different,alex_non,I felt that they were <br>different from me,3,1,5,4,5,3,1,2,4,0,8,10,8,10,5,Anxious,different,0
+9804579,4,A,Normal first,chat-again,alex_non,I would chat <br>with them again,3,1,5,4,5,3,1,2,4,0,8,10,8,10,5,Non-Anxious,chat-again,1
+9804579,2,A,Normal first,chat-again,alex_non,I would chat <br>with them again,3,1,5,4,5,3,1,2,4,0,8,10,8,10,5,Anxious,chat-again,-1
+9804926,4,A,Normal first,similar,alex_non,I felt that <br>we are similar,8,7,16,36,25,14,6,4,3,8,8,9,4,12,7,Non-Anxious,similar,1
+9804926,2,A,Normal first,similar,alex_non,I felt that <br>we are similar,8,7,16,36,25,14,6,4,3,8,8,9,4,12,7,Anxious,similar,-1
+9804926,4,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,8,7,16,36,25,14,6,4,3,8,8,9,4,12,7,Non-Anxious,enjoy,1
+9804926,2,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,8,7,16,36,25,14,6,4,3,8,8,9,4,12,7,Anxious,enjoy,-1
+9804926,2,A,Normal first,distant,alex_non,I felt distant <br>from them,8,7,16,36,25,14,6,4,3,8,8,9,4,12,7,Non-Anxious,distant,1
+9804926,5,A,Normal first,distant,alex_non,I felt distant <br>from them,8,7,16,36,25,14,6,4,3,8,8,9,4,12,7,Anxious,distant,-2
+9804926,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,8,7,16,36,25,14,6,4,3,8,8,9,4,12,7,Non-Anxious,understood,1
+9804926,1,A,Normal first,understood,alex_non,I felt that <br>they understood me,8,7,16,36,25,14,6,4,3,8,8,9,4,12,7,Anxious,understood,-2
+9804926,2,A,Normal first,different,alex_non,I felt that they were <br>different from me,8,7,16,36,25,14,6,4,3,8,8,9,4,12,7,Non-Anxious,different,1
+9804926,4,A,Normal first,different,alex_non,I felt that they were <br>different from me,8,7,16,36,25,14,6,4,3,8,8,9,4,12,7,Anxious,different,-1
+9804926,4,A,Normal first,chat-again,alex_non,I would chat <br>with them again,8,7,16,36,25,14,6,4,3,8,8,9,4,12,7,Non-Anxious,chat-again,1
+9804926,1,A,Normal first,chat-again,alex_non,I would chat <br>with them again,8,7,16,36,25,14,6,4,3,8,8,9,4,12,7,Anxious,chat-again,-2
+9805587,4,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,1,1,0,3,2,0,0,0,0,4,9,8,8,11,10,Anxious,similar,1
+9805587,5,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,1,1,0,3,2,0,0,0,0,4,9,8,8,11,10,Non-Anxious,similar,2
+9805587,2,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,1,1,0,3,2,0,0,0,0,4,9,8,8,11,10,Anxious,enjoy,-1
+9805587,4,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,1,1,0,3,2,0,0,0,0,4,9,8,8,11,10,Non-Anxious,enjoy,1
+9805587,4,A,Anxious first,distant,pat_anx,I felt distant <br>from them,1,1,0,3,2,0,0,0,0,4,9,8,8,11,10,Anxious,distant,-1
+9805587,1,A,Anxious first,distant,pat_anx,I felt distant <br>from them,1,1,0,3,2,0,0,0,0,4,9,8,8,11,10,Non-Anxious,distant,2
+9805587,4,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,1,1,0,3,2,0,0,0,0,4,9,8,8,11,10,Anxious,understood,1
+9805587,5,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,1,1,0,3,2,0,0,0,0,4,9,8,8,11,10,Non-Anxious,understood,2
+9805587,2,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,1,1,0,3,2,0,0,0,0,4,9,8,8,11,10,Anxious,different,1
+9805587,1,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,1,1,0,3,2,0,0,0,0,4,9,8,8,11,10,Non-Anxious,different,2
+9805587,4,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,1,1,0,3,2,0,0,0,0,4,9,8,8,11,10,Anxious,chat-again,1
+9805587,5,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,1,1,0,3,2,0,0,0,0,4,9,8,8,11,10,Non-Anxious,chat-again,2
+10117124,5,B,Normal first,similar,pat_non,I felt that <br>we are similar,17,16,13,38,10,7,1,3,6,7,8,10,7,9,9,Non-Anxious,similar,2
+10117124,5,B,Normal first,similar,pat_non,I felt that <br>we are similar,17,16,13,38,10,7,1,3,6,7,8,10,7,9,9,Anxious,similar,2
+10117124,5,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,17,16,13,38,10,7,1,3,6,7,8,10,7,9,9,Non-Anxious,enjoy,2
+10117124,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,17,16,13,38,10,7,1,3,6,7,8,10,7,9,9,Anxious,enjoy,1
+10117124,2,B,Normal first,distant,pat_non,I felt distant <br>from them,17,16,13,38,10,7,1,3,6,7,8,10,7,9,9,Non-Anxious,distant,1
+10117124,2,B,Normal first,distant,pat_non,I felt distant <br>from them,17,16,13,38,10,7,1,3,6,7,8,10,7,9,9,Anxious,distant,1
+10117124,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,17,16,13,38,10,7,1,3,6,7,8,10,7,9,9,Non-Anxious,understood,1
+10117124,5,B,Normal first,understood,pat_non,I felt that <br>they understood me,17,16,13,38,10,7,1,3,6,7,8,10,7,9,9,Anxious,understood,2
+10117124,2,B,Normal first,different,pat_non,I felt that they were <br>different from me,17,16,13,38,10,7,1,3,6,7,8,10,7,9,9,Non-Anxious,different,1
+10117124,2,B,Normal first,different,pat_non,I felt that they were <br>different from me,17,16,13,38,10,7,1,3,6,7,8,10,7,9,9,Anxious,different,1
+10117124,5,B,Normal first,chat-again,pat_non,I would chat <br>with them again,17,16,13,38,10,7,1,3,6,7,8,10,7,9,9,Non-Anxious,chat-again,2
+10117124,5,B,Normal first,chat-again,pat_non,I would chat <br>with them again,17,16,13,38,10,7,1,3,6,7,8,10,7,9,9,Anxious,chat-again,2
+10117126,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,1,0,0,0,0,0,0,0,0,0,8,7,9,8,12,Anxious,similar,-1
+10117126,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,1,0,0,0,0,0,0,0,0,0,8,7,9,8,12,Non-Anxious,similar,1
+10117126,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,1,0,0,0,0,0,0,0,0,0,8,7,9,8,12,Anxious,enjoy,1
+10117126,2,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,1,0,0,0,0,0,0,0,0,0,8,7,9,8,12,Non-Anxious,enjoy,-1
+10117126,3,B,Anxious first,distant,alex_anx,I felt distant <br>from them,1,0,0,0,0,0,0,0,0,0,8,7,9,8,12,Anxious,distant,0
+10117126,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,1,0,0,0,0,0,0,0,0,0,8,7,9,8,12,Non-Anxious,distant,1
+10117126,3,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,1,0,0,0,0,0,0,0,0,0,8,7,9,8,12,Anxious,understood,0
+10117126,3,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,1,0,0,0,0,0,0,0,0,0,8,7,9,8,12,Non-Anxious,understood,0
+10117126,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,1,0,0,0,0,0,0,0,0,0,8,7,9,8,12,Anxious,different,-1
+10117126,2,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,1,0,0,0,0,0,0,0,0,0,8,7,9,8,12,Non-Anxious,different,1
+10117126,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,1,0,0,0,0,0,0,0,0,0,8,7,9,8,12,Anxious,chat-again,-1
+10117126,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,1,0,0,0,0,0,0,0,0,0,8,7,9,8,12,Non-Anxious,chat-again,1
+10117128,4,B,Normal first,similar,pat_non,I felt that <br>we are similar,0,0,2,3,2,0,0,1,3,2,8,10,8,10,10,Non-Anxious,similar,1
+10117128,3,B,Normal first,similar,pat_non,I felt that <br>we are similar,0,0,2,3,2,0,0,1,3,2,8,10,8,10,10,Anxious,similar,0
+10117128,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,0,0,2,3,2,0,0,1,3,2,8,10,8,10,10,Non-Anxious,enjoy,1
+10117128,2,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,0,0,2,3,2,0,0,1,3,2,8,10,8,10,10,Anxious,enjoy,-1
+10117128,2,B,Normal first,distant,pat_non,I felt distant <br>from them,0,0,2,3,2,0,0,1,3,2,8,10,8,10,10,Non-Anxious,distant,1
+10117128,4,B,Normal first,distant,pat_non,I felt distant <br>from them,0,0,2,3,2,0,0,1,3,2,8,10,8,10,10,Anxious,distant,-1
+10117128,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,0,0,2,3,2,0,0,1,3,2,8,10,8,10,10,Non-Anxious,understood,1
+10117128,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,0,0,2,3,2,0,0,1,3,2,8,10,8,10,10,Anxious,understood,1
+10117128,3,B,Normal first,different,pat_non,I felt that they were <br>different from me,0,0,2,3,2,0,0,1,3,2,8,10,8,10,10,Non-Anxious,different,0
+10117128,4,B,Normal first,different,pat_non,I felt that they were <br>different from me,0,0,2,3,2,0,0,1,3,2,8,10,8,10,10,Anxious,different,-1
+10117128,4,B,Normal first,chat-again,pat_non,I would chat <br>with them again,0,0,2,3,2,0,0,1,3,2,8,10,8,10,10,Non-Anxious,chat-again,1
+10117128,2,B,Normal first,chat-again,pat_non,I would chat <br>with them again,0,0,2,3,2,0,0,1,3,2,8,10,8,10,10,Anxious,chat-again,-1
+10117133,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,1,0,6,3,3,2,0,1,0,3,11,9,8,10,9,Anxious,similar,-1
+10117133,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,1,0,6,3,3,2,0,1,0,3,11,9,8,10,9,Non-Anxious,similar,1
+10117133,3,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,1,0,6,3,3,2,0,1,0,3,11,9,8,10,9,Anxious,enjoy,0
+10117133,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,1,0,6,3,3,2,0,1,0,3,11,9,8,10,9,Non-Anxious,enjoy,1
+10117133,4,B,Anxious first,distant,alex_anx,I felt distant <br>from them,1,0,6,3,3,2,0,1,0,3,11,9,8,10,9,Anxious,distant,-1
+10117133,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,1,0,6,3,3,2,0,1,0,3,11,9,8,10,9,Non-Anxious,distant,1
+10117133,2,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,1,0,6,3,3,2,0,1,0,3,11,9,8,10,9,Anxious,understood,-1
+10117133,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,1,0,6,3,3,2,0,1,0,3,11,9,8,10,9,Non-Anxious,understood,1
+10117133,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,1,0,6,3,3,2,0,1,0,3,11,9,8,10,9,Anxious,different,-1
+10117133,2,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,1,0,6,3,3,2,0,1,0,3,11,9,8,10,9,Non-Anxious,different,1
+10117133,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,1,0,6,3,3,2,0,1,0,3,11,9,8,10,9,Anxious,chat-again,-1
+10117133,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,1,0,6,3,3,2,0,1,0,3,11,9,8,10,9,Non-Anxious,chat-again,1
+10117140,1,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,Anxious,similar,-2
+10117140,5,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,Non-Anxious,similar,2
+10117140,2,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,Anxious,enjoy,-1
+10117140,5,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,Non-Anxious,enjoy,2
+10117140,4,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,Anxious,distant,-1
+10117140,1,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,Non-Anxious,distant,2
+10117140,2,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,Anxious,understood,-1
+10117140,5,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,Non-Anxious,understood,2
+10117140,5,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,Anxious,different,-2
+10117140,1,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,Non-Anxious,different,2
+10117140,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,Anxious,chat-again,-1
+10117140,5,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,Non-Anxious,chat-again,2
+10117146,4,B,Normal first,similar,pat_non,I felt that <br>we are similar,4,3,6,6,3,0,1,1,0,8,9,7,8,8,9,Non-Anxious,similar,1
+10117146,2,B,Normal first,similar,pat_non,I felt that <br>we are similar,4,3,6,6,3,0,1,1,0,8,9,7,8,8,9,Anxious,similar,-1
+10117146,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,4,3,6,6,3,0,1,1,0,8,9,7,8,8,9,Non-Anxious,enjoy,1
+10117146,3,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,4,3,6,6,3,0,1,1,0,8,9,7,8,8,9,Anxious,enjoy,0
+10117146,2,B,Normal first,distant,pat_non,I felt distant <br>from them,4,3,6,6,3,0,1,1,0,8,9,7,8,8,9,Non-Anxious,distant,1
+10117146,4,B,Normal first,distant,pat_non,I felt distant <br>from them,4,3,6,6,3,0,1,1,0,8,9,7,8,8,9,Anxious,distant,-1
+10117146,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,4,3,6,6,3,0,1,1,0,8,9,7,8,8,9,Non-Anxious,understood,1
+10117146,2,B,Normal first,understood,pat_non,I felt that <br>they understood me,4,3,6,6,3,0,1,1,0,8,9,7,8,8,9,Anxious,understood,-1
+10117146,2,B,Normal first,different,pat_non,I felt that they were <br>different from me,4,3,6,6,3,0,1,1,0,8,9,7,8,8,9,Non-Anxious,different,1
+10117146,4,B,Normal first,different,pat_non,I felt that they were <br>different from me,4,3,6,6,3,0,1,1,0,8,9,7,8,8,9,Anxious,different,-1
+10117146,4,B,Normal first,chat-again,pat_non,I would chat <br>with them again,4,3,6,6,3,0,1,1,0,8,9,7,8,8,9,Non-Anxious,chat-again,1
+10117146,2,B,Normal first,chat-again,pat_non,I would chat <br>with them again,4,3,6,6,3,0,1,1,0,8,9,7,8,8,9,Anxious,chat-again,-1
+10117148,5,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,8,19,22,35,14,5,1,6,0,8,8,9,4,8,8,Anxious,similar,2
+10117148,3,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,8,19,22,35,14,5,1,6,0,8,8,9,4,8,8,Non-Anxious,similar,0
+10117148,5,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,8,19,22,35,14,5,1,6,0,8,8,9,4,8,8,Anxious,enjoy,2
+10117148,5,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,8,19,22,35,14,5,1,6,0,8,8,9,4,8,8,Non-Anxious,enjoy,2
+10117148,1,B,Anxious first,distant,alex_anx,I felt distant <br>from them,8,19,22,35,14,5,1,6,0,8,8,9,4,8,8,Anxious,distant,2
+10117148,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,8,19,22,35,14,5,1,6,0,8,8,9,4,8,8,Non-Anxious,distant,1
+10117148,5,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,8,19,22,35,14,5,1,6,0,8,8,9,4,8,8,Anxious,understood,2
+10117148,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,8,19,22,35,14,5,1,6,0,8,8,9,4,8,8,Non-Anxious,understood,1
+10117148,1,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,8,19,22,35,14,5,1,6,0,8,8,9,4,8,8,Anxious,different,2
+10117148,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,8,19,22,35,14,5,1,6,0,8,8,9,4,8,8,Non-Anxious,different,-1
+10117148,5,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,8,19,22,35,14,5,1,6,0,8,8,9,4,8,8,Anxious,chat-again,2
+10117148,5,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,8,19,22,35,14,5,1,6,0,8,8,9,4,8,8,Non-Anxious,chat-again,2
+10117150,3,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,18,15,17,15,9,7,9,6,6,13,7,7,10,9,8,Anxious,similar,0
+10117150,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,18,15,17,15,9,7,9,6,6,13,7,7,10,9,8,Non-Anxious,similar,1
+10117150,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,18,15,17,15,9,7,9,6,6,13,7,7,10,9,8,Anxious,enjoy,1
+10117150,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,18,15,17,15,9,7,9,6,6,13,7,7,10,9,8,Non-Anxious,enjoy,1
+10117150,4,B,Anxious first,distant,alex_anx,I felt distant <br>from them,18,15,17,15,9,7,9,6,6,13,7,7,10,9,8,Anxious,distant,-1
+10117150,3,B,Anxious first,distant,alex_anx,I felt distant <br>from them,18,15,17,15,9,7,9,6,6,13,7,7,10,9,8,Non-Anxious,distant,0
+10117150,3,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,18,15,17,15,9,7,9,6,6,13,7,7,10,9,8,Anxious,understood,0
+10117150,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,18,15,17,15,9,7,9,6,6,13,7,7,10,9,8,Non-Anxious,understood,1
+10117150,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,18,15,17,15,9,7,9,6,6,13,7,7,10,9,8,Anxious,different,-1
+10117150,2,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,18,15,17,15,9,7,9,6,6,13,7,7,10,9,8,Non-Anxious,different,1
+10117150,3,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,18,15,17,15,9,7,9,6,6,13,7,7,10,9,8,Anxious,chat-again,0
+10117150,3,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,18,15,17,15,9,7,9,6,6,13,7,7,10,9,8,Non-Anxious,chat-again,0
+10117154,2,B,Normal first,similar,pat_non,I felt that <br>we are similar,4,12,22,33,26,7,8,1,8,15,8,6,8,9,8,Non-Anxious,similar,-1
+10117154,4,B,Normal first,similar,pat_non,I felt that <br>we are similar,4,12,22,33,26,7,8,1,8,15,8,6,8,9,8,Anxious,similar,1
+10117154,2,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,4,12,22,33,26,7,8,1,8,15,8,6,8,9,8,Non-Anxious,enjoy,-1
+10117154,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,4,12,22,33,26,7,8,1,8,15,8,6,8,9,8,Anxious,enjoy,1
+10117154,4,B,Normal first,distant,pat_non,I felt distant <br>from them,4,12,22,33,26,7,8,1,8,15,8,6,8,9,8,Non-Anxious,distant,-1
+10117154,2,B,Normal first,distant,pat_non,I felt distant <br>from them,4,12,22,33,26,7,8,1,8,15,8,6,8,9,8,Anxious,distant,1
+10117154,2,B,Normal first,understood,pat_non,I felt that <br>they understood me,4,12,22,33,26,7,8,1,8,15,8,6,8,9,8,Non-Anxious,understood,-1
+10117154,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,4,12,22,33,26,7,8,1,8,15,8,6,8,9,8,Anxious,understood,1
+10117154,5,B,Normal first,different,pat_non,I felt that they were <br>different from me,4,12,22,33,26,7,8,1,8,15,8,6,8,9,8,Non-Anxious,different,-2
+10117154,2,B,Normal first,different,pat_non,I felt that they were <br>different from me,4,12,22,33,26,7,8,1,8,15,8,6,8,9,8,Anxious,different,1
+10117154,2,B,Normal first,chat-again,pat_non,I would chat <br>with them again,4,12,22,33,26,7,8,1,8,15,8,6,8,9,8,Non-Anxious,chat-again,-1
+10117154,4,B,Normal first,chat-again,pat_non,I would chat <br>with them again,4,12,22,33,26,7,8,1,8,15,8,6,8,9,8,Anxious,chat-again,1
+10117165,4,B,Normal first,similar,pat_non,I felt that <br>we are similar,1,0,0,4,0,2,0,0,0,3,10,9,8,8,7,Non-Anxious,similar,1
+10117165,2,B,Normal first,similar,pat_non,I felt that <br>we are similar,1,0,0,4,0,2,0,0,0,3,10,9,8,8,7,Anxious,similar,-1
+10117165,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,1,0,0,4,0,2,0,0,0,3,10,9,8,8,7,Non-Anxious,enjoy,1
+10117165,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,1,0,0,4,0,2,0,0,0,3,10,9,8,8,7,Anxious,enjoy,1
+10117165,2,B,Normal first,distant,pat_non,I felt distant <br>from them,1,0,0,4,0,2,0,0,0,3,10,9,8,8,7,Non-Anxious,distant,1
+10117165,2,B,Normal first,distant,pat_non,I felt distant <br>from them,1,0,0,4,0,2,0,0,0,3,10,9,8,8,7,Anxious,distant,1
+10117165,3,B,Normal first,understood,pat_non,I felt that <br>they understood me,1,0,0,4,0,2,0,0,0,3,10,9,8,8,7,Non-Anxious,understood,0
+10117165,2,B,Normal first,understood,pat_non,I felt that <br>they understood me,1,0,0,4,0,2,0,0,0,3,10,9,8,8,7,Anxious,understood,-1
+10117165,3,B,Normal first,different,pat_non,I felt that they were <br>different from me,1,0,0,4,0,2,0,0,0,3,10,9,8,8,7,Non-Anxious,different,0
+10117165,4,B,Normal first,different,pat_non,I felt that they were <br>different from me,1,0,0,4,0,2,0,0,0,3,10,9,8,8,7,Anxious,different,-1
+10117165,4,B,Normal first,chat-again,pat_non,I would chat <br>with them again,1,0,0,4,0,2,0,0,0,3,10,9,8,8,7,Non-Anxious,chat-again,1
+10117165,4,B,Normal first,chat-again,pat_non,I would chat <br>with them again,1,0,0,4,0,2,0,0,0,3,10,9,8,8,7,Anxious,chat-again,1
+10117171,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,20,28,25,33,28,21,17,12,19,20,8,12,9,8,6,Anxious,similar,1
+10117171,5,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,20,28,25,33,28,21,17,12,19,20,8,12,9,8,6,Non-Anxious,similar,2
+10117171,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,20,28,25,33,28,21,17,12,19,20,8,12,9,8,6,Anxious,enjoy,1
+10117171,5,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,20,28,25,33,28,21,17,12,19,20,8,12,9,8,6,Non-Anxious,enjoy,2
+10117171,1,B,Anxious first,distant,alex_anx,I felt distant <br>from them,20,28,25,33,28,21,17,12,19,20,8,12,9,8,6,Anxious,distant,2
+10117171,1,B,Anxious first,distant,alex_anx,I felt distant <br>from them,20,28,25,33,28,21,17,12,19,20,8,12,9,8,6,Non-Anxious,distant,2
+10117171,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,20,28,25,33,28,21,17,12,19,20,8,12,9,8,6,Anxious,understood,1
+10117171,5,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,20,28,25,33,28,21,17,12,19,20,8,12,9,8,6,Non-Anxious,understood,2
+10117171,2,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,20,28,25,33,28,21,17,12,19,20,8,12,9,8,6,Anxious,different,1
+10117171,1,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,20,28,25,33,28,21,17,12,19,20,8,12,9,8,6,Non-Anxious,different,2
+10117171,5,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,20,28,25,33,28,21,17,12,19,20,8,12,9,8,6,Anxious,chat-again,2
+10117171,5,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,20,28,25,33,28,21,17,12,19,20,8,12,9,8,6,Non-Anxious,chat-again,2
+10117181,4,B,Normal first,similar,pat_non,I felt that <br>we are similar,8,3,1,9,3,0,0,2,0,1,11,9,7,8,6,Non-Anxious,similar,1
+10117181,1,B,Normal first,similar,pat_non,I felt that <br>we are similar,8,3,1,9,3,0,0,2,0,1,11,9,7,8,6,Anxious,similar,-2
+10117181,5,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,8,3,1,9,3,0,0,2,0,1,11,9,7,8,6,Non-Anxious,enjoy,2
+10117181,2,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,8,3,1,9,3,0,0,2,0,1,11,9,7,8,6,Anxious,enjoy,-1
+10117181,1,B,Normal first,distant,pat_non,I felt distant <br>from them,8,3,1,9,3,0,0,2,0,1,11,9,7,8,6,Non-Anxious,distant,2
+10117181,4,B,Normal first,distant,pat_non,I felt distant <br>from them,8,3,1,9,3,0,0,2,0,1,11,9,7,8,6,Anxious,distant,-1
+10117181,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,8,3,1,9,3,0,0,2,0,1,11,9,7,8,6,Non-Anxious,understood,1
+10117181,3,B,Normal first,understood,pat_non,I felt that <br>they understood me,8,3,1,9,3,0,0,2,0,1,11,9,7,8,6,Anxious,understood,0
+10117181,2,B,Normal first,different,pat_non,I felt that they were <br>different from me,8,3,1,9,3,0,0,2,0,1,11,9,7,8,6,Non-Anxious,different,1
+10117181,4,B,Normal first,different,pat_non,I felt that they were <br>different from me,8,3,1,9,3,0,0,2,0,1,11,9,7,8,6,Anxious,different,-1
+10117181,5,B,Normal first,chat-again,pat_non,I would chat <br>with them again,8,3,1,9,3,0,0,2,0,1,11,9,7,8,6,Non-Anxious,chat-again,2
+10117181,2,B,Normal first,chat-again,pat_non,I would chat <br>with them again,8,3,1,9,3,0,0,2,0,1,11,9,7,8,6,Anxious,chat-again,-1
+10117189,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,2,1,2,6,3,0,2,1,0,3,11,8,5,9,5,Anxious,similar,1
+10117189,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,2,1,2,6,3,0,2,1,0,3,11,8,5,9,5,Non-Anxious,similar,1
+10117189,5,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,2,1,2,6,3,0,2,1,0,3,11,8,5,9,5,Anxious,enjoy,2
+10117189,5,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,2,1,2,6,3,0,2,1,0,3,11,8,5,9,5,Non-Anxious,enjoy,2
+10117189,1,B,Anxious first,distant,alex_anx,I felt distant <br>from them,2,1,2,6,3,0,2,1,0,3,11,8,5,9,5,Anxious,distant,2
+10117189,1,B,Anxious first,distant,alex_anx,I felt distant <br>from them,2,1,2,6,3,0,2,1,0,3,11,8,5,9,5,Non-Anxious,distant,2
+10117189,5,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,2,1,2,6,3,0,2,1,0,3,11,8,5,9,5,Anxious,understood,2
+10117189,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,2,1,2,6,3,0,2,1,0,3,11,8,5,9,5,Non-Anxious,understood,1
+10117189,1,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,2,1,2,6,3,0,2,1,0,3,11,8,5,9,5,Anxious,different,2
+10117189,1,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,2,1,2,6,3,0,2,1,0,3,11,8,5,9,5,Non-Anxious,different,2
+10117189,5,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,2,1,2,6,3,0,2,1,0,3,11,8,5,9,5,Anxious,chat-again,2
+10117189,5,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,2,1,2,6,3,0,2,1,0,3,11,8,5,9,5,Non-Anxious,chat-again,2
+10117196,4,B,Normal first,similar,pat_non,I felt that <br>we are similar,35,27,27,40,26,26,14,15,18,18,12,12,12,12,12,Non-Anxious,similar,1
+10117196,2,B,Normal first,similar,pat_non,I felt that <br>we are similar,35,27,27,40,26,26,14,15,18,18,12,12,12,12,12,Anxious,similar,-1
+10117196,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,35,27,27,40,26,26,14,15,18,18,12,12,12,12,12,Non-Anxious,enjoy,1
+10117196,2,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,35,27,27,40,26,26,14,15,18,18,12,12,12,12,12,Anxious,enjoy,-1
+10117196,2,B,Normal first,distant,pat_non,I felt distant <br>from them,35,27,27,40,26,26,14,15,18,18,12,12,12,12,12,Non-Anxious,distant,1
+10117196,4,B,Normal first,distant,pat_non,I felt distant <br>from them,35,27,27,40,26,26,14,15,18,18,12,12,12,12,12,Anxious,distant,-1
+10117196,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,35,27,27,40,26,26,14,15,18,18,12,12,12,12,12,Non-Anxious,understood,1
+10117196,2,B,Normal first,understood,pat_non,I felt that <br>they understood me,35,27,27,40,26,26,14,15,18,18,12,12,12,12,12,Anxious,understood,-1
+10117196,4,B,Normal first,different,pat_non,I felt that they were <br>different from me,35,27,27,40,26,26,14,15,18,18,12,12,12,12,12,Non-Anxious,different,-1
+10117196,2,B,Normal first,different,pat_non,I felt that they were <br>different from me,35,27,27,40,26,26,14,15,18,18,12,12,12,12,12,Anxious,different,1
+10117196,4,B,Normal first,chat-again,pat_non,I would chat <br>with them again,35,27,27,40,26,26,14,15,18,18,12,12,12,12,12,Non-Anxious,chat-again,1
+10117196,2,B,Normal first,chat-again,pat_non,I would chat <br>with them again,35,27,27,40,26,26,14,15,18,18,12,12,12,12,12,Anxious,chat-again,-1
+10117204,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,3,0,7,0,0,0,0,1,0,0,7,8,12,8,6,Anxious,similar,-1
+10117204,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,3,0,7,0,0,0,0,1,0,0,7,8,12,8,6,Non-Anxious,similar,1
+10117204,2,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,3,0,7,0,0,0,0,1,0,0,7,8,12,8,6,Anxious,enjoy,-1
+10117204,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,3,0,7,0,0,0,0,1,0,0,7,8,12,8,6,Non-Anxious,enjoy,1
+10117204,4,B,Anxious first,distant,alex_anx,I felt distant <br>from them,3,0,7,0,0,0,0,1,0,0,7,8,12,8,6,Anxious,distant,-1
+10117204,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,3,0,7,0,0,0,0,1,0,0,7,8,12,8,6,Non-Anxious,distant,1
+10117204,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,3,0,7,0,0,0,0,1,0,0,7,8,12,8,6,Anxious,understood,1
+10117204,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,3,0,7,0,0,0,0,1,0,0,7,8,12,8,6,Non-Anxious,understood,1
+10117204,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,3,0,7,0,0,0,0,1,0,0,7,8,12,8,6,Anxious,different,-1
+10117204,2,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,3,0,7,0,0,0,0,1,0,0,7,8,12,8,6,Non-Anxious,different,1
+10117204,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,3,0,7,0,0,0,0,1,0,0,7,8,12,8,6,Anxious,chat-again,-1
+10117204,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,3,0,7,0,0,0,0,1,0,0,7,8,12,8,6,Non-Anxious,chat-again,1
+10117263,5,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,0,0,0,0,0,0,0,0,0,10,8,7,7,9,Anxious,similar,2
+10117263,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,0,0,0,0,0,0,0,0,0,10,8,7,7,9,Non-Anxious,similar,1
+10117263,5,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,0,0,0,0,0,0,0,0,0,10,8,7,7,9,Anxious,enjoy,2
+10117263,5,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,0,0,0,0,0,0,0,0,0,10,8,7,7,9,Non-Anxious,enjoy,2
+10117263,1,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,0,0,0,0,0,0,0,0,0,10,8,7,7,9,Anxious,distant,2
+10117263,1,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,0,0,0,0,0,0,0,0,0,10,8,7,7,9,Non-Anxious,distant,2
+10117263,5,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,0,0,0,0,0,0,0,0,0,10,8,7,7,9,Anxious,understood,2
+10117263,5,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,0,0,0,0,0,0,0,0,0,10,8,7,7,9,Non-Anxious,understood,2
+10117263,1,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,0,0,0,0,0,0,0,0,0,10,8,7,7,9,Anxious,different,2
+10117263,1,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,0,0,0,0,0,0,0,0,0,10,8,7,7,9,Non-Anxious,different,2
+10117263,5,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,0,0,0,0,0,0,0,0,0,10,8,7,7,9,Anxious,chat-again,2
+10117263,5,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,0,0,0,0,0,0,0,0,0,10,8,7,7,9,Non-Anxious,chat-again,2
+10117266,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,11,10,8,12,10,8,7,7,7,7,10,6,7,9,8,Anxious,similar,-1
+10117266,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,11,10,8,12,10,8,7,7,7,7,10,6,7,9,8,Non-Anxious,similar,1
+10117266,2,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,11,10,8,12,10,8,7,7,7,7,10,6,7,9,8,Anxious,enjoy,-1
+10117266,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,11,10,8,12,10,8,7,7,7,7,10,6,7,9,8,Non-Anxious,enjoy,1
+10117266,4,B,Anxious first,distant,alex_anx,I felt distant <br>from them,11,10,8,12,10,8,7,7,7,7,10,6,7,9,8,Anxious,distant,-1
+10117266,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,11,10,8,12,10,8,7,7,7,7,10,6,7,9,8,Non-Anxious,distant,1
+10117266,2,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,11,10,8,12,10,8,7,7,7,7,10,6,7,9,8,Anxious,understood,-1
+10117266,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,11,10,8,12,10,8,7,7,7,7,10,6,7,9,8,Non-Anxious,understood,1
+10117266,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,11,10,8,12,10,8,7,7,7,7,10,6,7,9,8,Anxious,different,-1
+10117266,2,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,11,10,8,12,10,8,7,7,7,7,10,6,7,9,8,Non-Anxious,different,1
+10117266,1,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,11,10,8,12,10,8,7,7,7,7,10,6,7,9,8,Anxious,chat-again,-2
+10117266,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,11,10,8,12,10,8,7,7,7,7,10,6,7,9,8,Non-Anxious,chat-again,1
+10117310,4,B,Normal first,similar,pat_non,I felt that <br>we are similar,0,0,0,2,0,0,0,1,0,0,13,8,7,8,5,Non-Anxious,similar,1
+10117310,5,B,Normal first,similar,pat_non,I felt that <br>we are similar,0,0,0,2,0,0,0,1,0,0,13,8,7,8,5,Anxious,similar,2
+10117310,5,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,0,0,0,2,0,0,0,1,0,0,13,8,7,8,5,Non-Anxious,enjoy,2
+10117310,5,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,0,0,0,2,0,0,0,1,0,0,13,8,7,8,5,Anxious,enjoy,2
+10117310,1,B,Normal first,distant,pat_non,I felt distant <br>from them,0,0,0,2,0,0,0,1,0,0,13,8,7,8,5,Non-Anxious,distant,2
+10117310,1,B,Normal first,distant,pat_non,I felt distant <br>from them,0,0,0,2,0,0,0,1,0,0,13,8,7,8,5,Anxious,distant,2
+10117310,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,0,0,0,2,0,0,0,1,0,0,13,8,7,8,5,Non-Anxious,understood,1
+10117310,5,B,Normal first,understood,pat_non,I felt that <br>they understood me,0,0,0,2,0,0,0,1,0,0,13,8,7,8,5,Anxious,understood,2
+10117310,1,B,Normal first,different,pat_non,I felt that they were <br>different from me,0,0,0,2,0,0,0,1,0,0,13,8,7,8,5,Non-Anxious,different,2
+10117310,1,B,Normal first,different,pat_non,I felt that they were <br>different from me,0,0,0,2,0,0,0,1,0,0,13,8,7,8,5,Anxious,different,2
+10117310,5,B,Normal first,chat-again,pat_non,I would chat <br>with them again,0,0,0,2,0,0,0,1,0,0,13,8,7,8,5,Non-Anxious,chat-again,2
+10117310,5,B,Normal first,chat-again,pat_non,I would chat <br>with them again,0,0,0,2,0,0,0,1,0,0,13,8,7,8,5,Anxious,chat-again,2
+10117352,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,5,2,4,5,1,0,0,0,0,4,8,8,9,8,11,Anxious,similar,-1
+10117352,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,5,2,4,5,1,0,0,0,0,4,8,8,9,8,11,Non-Anxious,similar,1
+10117352,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,5,2,4,5,1,0,0,0,0,4,8,8,9,8,11,Anxious,enjoy,1
+10117352,2,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,5,2,4,5,1,0,0,0,0,4,8,8,9,8,11,Non-Anxious,enjoy,-1
+10117352,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,5,2,4,5,1,0,0,0,0,4,8,8,9,8,11,Anxious,distant,1
+10117352,3,B,Anxious first,distant,alex_anx,I felt distant <br>from them,5,2,4,5,1,0,0,0,0,4,8,8,9,8,11,Non-Anxious,distant,0
+10117352,3,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,5,2,4,5,1,0,0,0,0,4,8,8,9,8,11,Anxious,understood,0
+10117352,3,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,5,2,4,5,1,0,0,0,0,4,8,8,9,8,11,Non-Anxious,understood,0
+10117352,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,5,2,4,5,1,0,0,0,0,4,8,8,9,8,11,Anxious,different,-1
+10117352,3,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,5,2,4,5,1,0,0,0,0,4,8,8,9,8,11,Non-Anxious,different,0
+10117352,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,5,2,4,5,1,0,0,0,0,4,8,8,9,8,11,Anxious,chat-again,1
+10117352,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,5,2,4,5,1,0,0,0,0,4,8,8,9,8,11,Non-Anxious,chat-again,-1
+10117424,3,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,1,1,3,2,2,1,2,1,0,7,9,7,7,8,9,Anxious,similar,0
+10117424,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,1,1,3,2,2,1,2,1,0,7,9,7,7,8,9,Non-Anxious,similar,1
+10117424,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,1,1,3,2,2,1,2,1,0,7,9,7,7,8,9,Anxious,enjoy,1
+10117424,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,1,1,3,2,2,1,2,1,0,7,9,7,7,8,9,Non-Anxious,enjoy,1
+10117424,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,1,1,3,2,2,1,2,1,0,7,9,7,7,8,9,Anxious,distant,1
+10117424,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,1,1,3,2,2,1,2,1,0,7,9,7,7,8,9,Non-Anxious,distant,1
+10117424,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,1,1,3,2,2,1,2,1,0,7,9,7,7,8,9,Anxious,understood,1
+10117424,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,1,1,3,2,2,1,2,1,0,7,9,7,7,8,9,Non-Anxious,understood,1
+10117424,2,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,1,1,3,2,2,1,2,1,0,7,9,7,7,8,9,Anxious,different,1
+10117424,2,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,1,1,3,2,2,1,2,1,0,7,9,7,7,8,9,Non-Anxious,different,1
+10117424,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,1,1,3,2,2,1,2,1,0,7,9,7,7,8,9,Anxious,chat-again,1
+10117424,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,1,1,3,2,2,1,2,1,0,7,9,7,7,8,9,Non-Anxious,chat-again,1
+10117478,1,B,Normal first,similar,pat_non,I felt that <br>we are similar,1,3,9,10,5,2,3,1,0,9,7,9,9,8,8,Non-Anxious,similar,-2
+10117478,4,B,Normal first,similar,pat_non,I felt that <br>we are similar,1,3,9,10,5,2,3,1,0,9,7,9,9,8,8,Anxious,similar,1
+10117478,2,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,1,3,9,10,5,2,3,1,0,9,7,9,9,8,8,Non-Anxious,enjoy,-1
+10117478,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,1,3,9,10,5,2,3,1,0,9,7,9,9,8,8,Anxious,enjoy,1
+10117478,5,B,Normal first,distant,pat_non,I felt distant <br>from them,1,3,9,10,5,2,3,1,0,9,7,9,9,8,8,Non-Anxious,distant,-2
+10117478,2,B,Normal first,distant,pat_non,I felt distant <br>from them,1,3,9,10,5,2,3,1,0,9,7,9,9,8,8,Anxious,distant,1
+10117478,1,B,Normal first,understood,pat_non,I felt that <br>they understood me,1,3,9,10,5,2,3,1,0,9,7,9,9,8,8,Non-Anxious,understood,-2
+10117478,3,B,Normal first,understood,pat_non,I felt that <br>they understood me,1,3,9,10,5,2,3,1,0,9,7,9,9,8,8,Anxious,understood,0
+10117478,5,B,Normal first,different,pat_non,I felt that they were <br>different from me,1,3,9,10,5,2,3,1,0,9,7,9,9,8,8,Non-Anxious,different,-2
+10117478,2,B,Normal first,different,pat_non,I felt that they were <br>different from me,1,3,9,10,5,2,3,1,0,9,7,9,9,8,8,Anxious,different,1
+10117478,1,B,Normal first,chat-again,pat_non,I would chat <br>with them again,1,3,9,10,5,2,3,1,0,9,7,9,9,8,8,Non-Anxious,chat-again,-2
+10117478,4,B,Normal first,chat-again,pat_non,I would chat <br>with them again,1,3,9,10,5,2,3,1,0,9,7,9,9,8,8,Anxious,chat-again,1
+10117696,3,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,1,0,4,2,1,0,1,1,2,8,8,8,11,7,Anxious,similar,0
+10117696,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,1,0,4,2,1,0,1,1,2,8,8,8,11,7,Non-Anxious,similar,1
+10117696,3,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,1,0,4,2,1,0,1,1,2,8,8,8,11,7,Anxious,enjoy,0
+10117696,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,1,0,4,2,1,0,1,1,2,8,8,8,11,7,Non-Anxious,enjoy,1
+10117696,4,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,1,0,4,2,1,0,1,1,2,8,8,8,11,7,Anxious,distant,-1
+10117696,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,1,0,4,2,1,0,1,1,2,8,8,8,11,7,Non-Anxious,distant,1
+10117696,2,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,1,0,4,2,1,0,1,1,2,8,8,8,11,7,Anxious,understood,-1
+10117696,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,1,0,4,2,1,0,1,1,2,8,8,8,11,7,Non-Anxious,understood,1
+10117696,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,1,0,4,2,1,0,1,1,2,8,8,8,11,7,Anxious,different,-1
+10117696,3,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,1,0,4,2,1,0,1,1,2,8,8,8,11,7,Non-Anxious,different,0
+10117696,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,1,0,4,2,1,0,1,1,2,8,8,8,11,7,Anxious,chat-again,-1
+10117696,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,1,0,4,2,1,0,1,1,2,8,8,8,11,7,Non-Anxious,chat-again,1
+10117760,4,B,Normal first,similar,pat_non,I felt that <br>we are similar,0,0,0,0,0,0,0,0,0,0,11,8,9,8,9,Non-Anxious,similar,1
+10117760,1,B,Normal first,similar,pat_non,I felt that <br>we are similar,0,0,0,0,0,0,0,0,0,0,11,8,9,8,9,Anxious,similar,-2
+10117760,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,0,0,0,0,0,0,0,0,0,0,11,8,9,8,9,Non-Anxious,enjoy,1
+10117760,1,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,0,0,0,0,0,0,0,0,0,0,11,8,9,8,9,Anxious,enjoy,-2
+10117760,2,B,Normal first,distant,pat_non,I felt distant <br>from them,0,0,0,0,0,0,0,0,0,0,11,8,9,8,9,Non-Anxious,distant,1
+10117760,5,B,Normal first,distant,pat_non,I felt distant <br>from them,0,0,0,0,0,0,0,0,0,0,11,8,9,8,9,Anxious,distant,-2
+10117760,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,0,0,0,0,0,0,0,0,0,0,11,8,9,8,9,Non-Anxious,understood,1
+10117760,1,B,Normal first,understood,pat_non,I felt that <br>they understood me,0,0,0,0,0,0,0,0,0,0,11,8,9,8,9,Anxious,understood,-2
+10117760,2,B,Normal first,different,pat_non,I felt that they were <br>different from me,0,0,0,0,0,0,0,0,0,0,11,8,9,8,9,Non-Anxious,different,1
+10117760,5,B,Normal first,different,pat_non,I felt that they were <br>different from me,0,0,0,0,0,0,0,0,0,0,11,8,9,8,9,Anxious,different,-2
+10117760,4,B,Normal first,chat-again,pat_non,I would chat <br>with them again,0,0,0,0,0,0,0,0,0,0,11,8,9,8,9,Non-Anxious,chat-again,1
+10117760,1,B,Normal first,chat-again,pat_non,I would chat <br>with them again,0,0,0,0,0,0,0,0,0,0,11,8,9,8,9,Anxious,chat-again,-2
+10117874,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,7,2,9,9,2,3,0,2,0,11,10,10,9,9,10,Anxious,similar,-1
+10117874,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,7,2,9,9,2,3,0,2,0,11,10,10,9,9,10,Non-Anxious,similar,1
+10117874,2,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,7,2,9,9,2,3,0,2,0,11,10,10,9,9,10,Anxious,enjoy,-1
+10117874,5,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,7,2,9,9,2,3,0,2,0,11,10,10,9,9,10,Non-Anxious,enjoy,2
+10117874,4,B,Anxious first,distant,alex_anx,I felt distant <br>from them,7,2,9,9,2,3,0,2,0,11,10,10,9,9,10,Anxious,distant,-1
+10117874,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,7,2,9,9,2,3,0,2,0,11,10,10,9,9,10,Non-Anxious,distant,1
+10117874,3,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,7,2,9,9,2,3,0,2,0,11,10,10,9,9,10,Anxious,understood,0
+10117874,5,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,7,2,9,9,2,3,0,2,0,11,10,10,9,9,10,Non-Anxious,understood,2
+10117874,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,7,2,9,9,2,3,0,2,0,11,10,10,9,9,10,Anxious,different,-1
+10117874,3,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,7,2,9,9,2,3,0,2,0,11,10,10,9,9,10,Non-Anxious,different,0
+10117874,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,7,2,9,9,2,3,0,2,0,11,10,10,9,9,10,Anxious,chat-again,-1
+10117874,5,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,7,2,9,9,2,3,0,2,0,11,10,10,9,9,10,Non-Anxious,chat-again,2
+10117912,5,B,Normal first,similar,pat_non,I felt that <br>we are similar,0,0,1,0,1,3,0,0,0,4,10,7,13,8,8,Non-Anxious,similar,2
+10117912,2,B,Normal first,similar,pat_non,I felt that <br>we are similar,0,0,1,0,1,3,0,0,0,4,10,7,13,8,8,Anxious,similar,-1
+10117912,5,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,0,0,1,0,1,3,0,0,0,4,10,7,13,8,8,Non-Anxious,enjoy,2
+10117912,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,0,0,1,0,1,3,0,0,0,4,10,7,13,8,8,Anxious,enjoy,1
+10117912,2,B,Normal first,distant,pat_non,I felt distant <br>from them,0,0,1,0,1,3,0,0,0,4,10,7,13,8,8,Non-Anxious,distant,1
+10117912,2,B,Normal first,distant,pat_non,I felt distant <br>from them,0,0,1,0,1,3,0,0,0,4,10,7,13,8,8,Anxious,distant,1
+10117912,5,B,Normal first,understood,pat_non,I felt that <br>they understood me,0,0,1,0,1,3,0,0,0,4,10,7,13,8,8,Non-Anxious,understood,2
+10117912,2,B,Normal first,understood,pat_non,I felt that <br>they understood me,0,0,1,0,1,3,0,0,0,4,10,7,13,8,8,Anxious,understood,-1
+10117912,2,B,Normal first,different,pat_non,I felt that they were <br>different from me,0,0,1,0,1,3,0,0,0,4,10,7,13,8,8,Non-Anxious,different,1
+10117912,4,B,Normal first,different,pat_non,I felt that they were <br>different from me,0,0,1,0,1,3,0,0,0,4,10,7,13,8,8,Anxious,different,-1
+10117912,5,B,Normal first,chat-again,pat_non,I would chat <br>with them again,0,0,1,0,1,3,0,0,0,4,10,7,13,8,8,Non-Anxious,chat-again,2
+10117912,4,B,Normal first,chat-again,pat_non,I would chat <br>with them again,0,0,1,0,1,3,0,0,0,4,10,7,13,8,8,Anxious,chat-again,1
+10117950,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,5,1,4,1,1,0,1,1,0,2,8,11,8,8,7,Anxious,similar,-1
+10117950,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,5,1,4,1,1,0,1,1,0,2,8,11,8,8,7,Non-Anxious,similar,-1
+10117950,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,5,1,4,1,1,0,1,1,0,2,8,11,8,8,7,Anxious,enjoy,1
+10117950,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,5,1,4,1,1,0,1,1,0,2,8,11,8,8,7,Non-Anxious,enjoy,1
+10117950,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,5,1,4,1,1,0,1,1,0,2,8,11,8,8,7,Anxious,distant,1
+10117950,1,B,Anxious first,distant,alex_anx,I felt distant <br>from them,5,1,4,1,1,0,1,1,0,2,8,11,8,8,7,Non-Anxious,distant,2
+10117950,3,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,5,1,4,1,1,0,1,1,0,2,8,11,8,8,7,Anxious,understood,0
+10117950,3,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,5,1,4,1,1,0,1,1,0,2,8,11,8,8,7,Non-Anxious,understood,0
+10117950,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,5,1,4,1,1,0,1,1,0,2,8,11,8,8,7,Anxious,different,-1
+10117950,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,5,1,4,1,1,0,1,1,0,2,8,11,8,8,7,Non-Anxious,different,-1
+10117950,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,5,1,4,1,1,0,1,1,0,2,8,11,8,8,7,Anxious,chat-again,1
+10117950,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,5,1,4,1,1,0,1,1,0,2,8,11,8,8,7,Non-Anxious,chat-again,1
+10118016,2,B,Normal first,similar,pat_non,I felt that <br>we are similar,1,6,3,20,6,7,2,1,0,6,8,7,7,9,7,Non-Anxious,similar,-1
+10118016,3,B,Normal first,similar,pat_non,I felt that <br>we are similar,1,6,3,20,6,7,2,1,0,6,8,7,7,9,7,Anxious,similar,0
+10118016,2,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,1,6,3,20,6,7,2,1,0,6,8,7,7,9,7,Non-Anxious,enjoy,-1
+10118016,1,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,1,6,3,20,6,7,2,1,0,6,8,7,7,9,7,Anxious,enjoy,-2
+10118016,3,B,Normal first,distant,pat_non,I felt distant <br>from them,1,6,3,20,6,7,2,1,0,6,8,7,7,9,7,Non-Anxious,distant,0
+10118016,4,B,Normal first,distant,pat_non,I felt distant <br>from them,1,6,3,20,6,7,2,1,0,6,8,7,7,9,7,Anxious,distant,-1
+10118016,1,B,Normal first,understood,pat_non,I felt that <br>they understood me,1,6,3,20,6,7,2,1,0,6,8,7,7,9,7,Non-Anxious,understood,-2
+10118016,1,B,Normal first,understood,pat_non,I felt that <br>they understood me,1,6,3,20,6,7,2,1,0,6,8,7,7,9,7,Anxious,understood,-2
+10118016,4,B,Normal first,different,pat_non,I felt that they were <br>different from me,1,6,3,20,6,7,2,1,0,6,8,7,7,9,7,Non-Anxious,different,-1
+10118016,3,B,Normal first,different,pat_non,I felt that they were <br>different from me,1,6,3,20,6,7,2,1,0,6,8,7,7,9,7,Anxious,different,0
+10118016,2,B,Normal first,chat-again,pat_non,I would chat <br>with them again,1,6,3,20,6,7,2,1,0,6,8,7,7,9,7,Non-Anxious,chat-again,-1
+10118016,2,B,Normal first,chat-again,pat_non,I would chat <br>with them again,1,6,3,20,6,7,2,1,0,6,8,7,7,9,7,Anxious,chat-again,-1
+10118261,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,0,0,0,0,0,0,0,0,0,8,11,7,8,7,Anxious,similar,-1
+10118261,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,0,0,0,0,0,0,0,0,0,8,11,7,8,7,Non-Anxious,similar,1
+10118261,2,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,0,0,0,0,0,0,0,0,0,8,11,7,8,7,Anxious,enjoy,-1
+10118261,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,0,0,0,0,0,0,0,0,0,8,11,7,8,7,Non-Anxious,enjoy,1
+10118261,3,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,0,0,0,0,0,0,0,0,0,8,11,7,8,7,Anxious,distant,0
+10118261,3,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,0,0,0,0,0,0,0,0,0,8,11,7,8,7,Non-Anxious,distant,0
+10118261,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,0,0,0,0,0,0,0,0,0,8,11,7,8,7,Anxious,understood,1
+10118261,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,0,0,0,0,0,0,0,0,0,8,11,7,8,7,Non-Anxious,understood,1
+10118261,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,0,0,0,0,0,0,0,0,0,8,11,7,8,7,Anxious,different,-1
+10118261,3,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,0,0,0,0,0,0,0,0,0,8,11,7,8,7,Non-Anxious,different,0
+10118261,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,0,0,0,0,0,0,0,0,0,8,11,7,8,7,Anxious,chat-again,1
+10118261,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,0,0,0,0,0,0,0,0,0,8,11,7,8,7,Non-Anxious,chat-again,1
+10118268,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,0,0,0,0,0,3,0,0,0,8,8,8,9,9,Anxious,similar,-1
+10118268,3,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,0,0,0,0,0,3,0,0,0,8,8,8,9,9,Non-Anxious,similar,0
+10118268,3,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,0,0,0,0,0,3,0,0,0,8,8,8,9,9,Anxious,enjoy,0
+10118268,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,0,0,0,0,0,3,0,0,0,8,8,8,9,9,Non-Anxious,enjoy,1
+10118268,4,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,0,0,0,0,0,3,0,0,0,8,8,8,9,9,Anxious,distant,-1
+10118268,3,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,0,0,0,0,0,3,0,0,0,8,8,8,9,9,Non-Anxious,distant,0
+10118268,2,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,0,0,0,0,0,3,0,0,0,8,8,8,9,9,Anxious,understood,-1
+10118268,3,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,0,0,0,0,0,3,0,0,0,8,8,8,9,9,Non-Anxious,understood,0
+10118268,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,0,0,0,0,0,3,0,0,0,8,8,8,9,9,Anxious,different,-1
+10118268,3,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,0,0,0,0,0,3,0,0,0,8,8,8,9,9,Non-Anxious,different,0
+10118268,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,0,0,0,0,0,3,0,0,0,8,8,8,9,9,Anxious,chat-again,-1
+10118268,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,0,0,0,0,0,3,0,0,0,8,8,8,9,9,Non-Anxious,chat-again,1
+10118299,3,B,Normal first,similar,pat_non,I felt that <br>we are similar,3,10,16,18,11,1,2,2,8,8,8,8,8,10,9,Non-Anxious,similar,0
+10118299,3,B,Normal first,similar,pat_non,I felt that <br>we are similar,3,10,16,18,11,1,2,2,8,8,8,8,8,10,9,Anxious,similar,0
+10118299,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,3,10,16,18,11,1,2,2,8,8,8,8,8,10,9,Non-Anxious,enjoy,1
+10118299,2,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,3,10,16,18,11,1,2,2,8,8,8,8,8,10,9,Anxious,enjoy,-1
+10118299,5,B,Normal first,distant,pat_non,I felt distant <br>from them,3,10,16,18,11,1,2,2,8,8,8,8,8,10,9,Non-Anxious,distant,-2
+10118299,5,B,Normal first,distant,pat_non,I felt distant <br>from them,3,10,16,18,11,1,2,2,8,8,8,8,8,10,9,Anxious,distant,-2
+10118299,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,3,10,16,18,11,1,2,2,8,8,8,8,8,10,9,Non-Anxious,understood,1
+10118299,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,3,10,16,18,11,1,2,2,8,8,8,8,8,10,9,Anxious,understood,1
+10118299,4,B,Normal first,different,pat_non,I felt that they were <br>different from me,3,10,16,18,11,1,2,2,8,8,8,8,8,10,9,Non-Anxious,different,-1
+10118299,2,B,Normal first,different,pat_non,I felt that they were <br>different from me,3,10,16,18,11,1,2,2,8,8,8,8,8,10,9,Anxious,different,1
+10118299,4,B,Normal first,chat-again,pat_non,I would chat <br>with them again,3,10,16,18,11,1,2,2,8,8,8,8,8,10,9,Non-Anxious,chat-again,1
+10118299,3,B,Normal first,chat-again,pat_non,I would chat <br>with them again,3,10,16,18,11,1,2,2,8,8,8,8,8,10,9,Anxious,chat-again,0
+10269258,5,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,48,40,40,52,32,40,24,24,24,28,8,8,8,8,8,Anxious,similar,2
+10269258,1,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,48,40,40,52,32,40,24,24,24,28,8,8,8,8,8,Non-Anxious,similar,-2
+10269258,1,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,48,40,40,52,32,40,24,24,24,28,8,8,8,8,8,Anxious,enjoy,-2
+10269258,5,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,48,40,40,52,32,40,24,24,24,28,8,8,8,8,8,Non-Anxious,enjoy,2
+10269258,1,A,Anxious first,distant,pat_anx,I felt distant <br>from them,48,40,40,52,32,40,24,24,24,28,8,8,8,8,8,Anxious,distant,2
+10269258,5,A,Anxious first,distant,pat_anx,I felt distant <br>from them,48,40,40,52,32,40,24,24,24,28,8,8,8,8,8,Non-Anxious,distant,-2
+10269258,5,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,48,40,40,52,32,40,24,24,24,28,8,8,8,8,8,Anxious,understood,2
+10269258,1,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,48,40,40,52,32,40,24,24,24,28,8,8,8,8,8,Non-Anxious,understood,-2
+10269258,1,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,48,40,40,52,32,40,24,24,24,28,8,8,8,8,8,Anxious,different,2
+10269258,5,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,48,40,40,52,32,40,24,24,24,28,8,8,8,8,8,Non-Anxious,different,-2
+10269258,1,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,48,40,40,52,32,40,24,24,24,28,8,8,8,8,8,Anxious,chat-again,-2
+10269258,5,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,48,40,40,52,32,40,24,24,24,28,8,8,8,8,8,Non-Anxious,chat-again,2
+10269277,4,A,Normal first,similar,alex_non,I felt that <br>we are similar,1,0,2,1,0,0,0,0,0,1,9,9,12,9,11,Non-Anxious,similar,1
+10269277,2,A,Normal first,similar,alex_non,I felt that <br>we are similar,1,0,2,1,0,0,0,0,0,1,9,9,12,9,11,Anxious,similar,-1
+10269277,5,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,1,0,2,1,0,0,0,0,0,1,9,9,12,9,11,Non-Anxious,enjoy,2
+10269277,2,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,1,0,2,1,0,0,0,0,0,1,9,9,12,9,11,Anxious,enjoy,-1
+10269277,2,A,Normal first,distant,alex_non,I felt distant <br>from them,1,0,2,1,0,0,0,0,0,1,9,9,12,9,11,Non-Anxious,distant,1
+10269277,5,A,Normal first,distant,alex_non,I felt distant <br>from them,1,0,2,1,0,0,0,0,0,1,9,9,12,9,11,Anxious,distant,-2
+10269277,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,1,0,2,1,0,0,0,0,0,1,9,9,12,9,11,Non-Anxious,understood,1
+10269277,3,A,Normal first,understood,alex_non,I felt that <br>they understood me,1,0,2,1,0,0,0,0,0,1,9,9,12,9,11,Anxious,understood,0
+10269277,2,A,Normal first,different,alex_non,I felt that they were <br>different from me,1,0,2,1,0,0,0,0,0,1,9,9,12,9,11,Non-Anxious,different,1
+10269277,3,A,Normal first,different,alex_non,I felt that they were <br>different from me,1,0,2,1,0,0,0,0,0,1,9,9,12,9,11,Anxious,different,0
+10269277,5,A,Normal first,chat-again,alex_non,I would chat <br>with them again,1,0,2,1,0,0,0,0,0,1,9,9,12,9,11,Non-Anxious,chat-again,2
+10269277,1,A,Normal first,chat-again,alex_non,I would chat <br>with them again,1,0,2,1,0,0,0,0,0,1,9,9,12,9,11,Anxious,chat-again,-2
+10269286,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,1,0,1,0,0,0,1,0,2,11,8,8,8,8,Anxious,similar,-1
+10269286,5,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,1,0,1,0,0,0,1,0,2,11,8,8,8,8,Non-Anxious,similar,2
+10269286,3,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,1,0,1,0,0,0,1,0,2,11,8,8,8,8,Anxious,enjoy,0
+10269286,5,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,1,0,1,0,0,0,1,0,2,11,8,8,8,8,Non-Anxious,enjoy,2
+10269286,5,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,1,0,1,0,0,0,1,0,2,11,8,8,8,8,Anxious,distant,-2
+10269286,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,1,0,1,0,0,0,1,0,2,11,8,8,8,8,Non-Anxious,distant,1
+10269286,2,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,1,0,1,0,0,0,1,0,2,11,8,8,8,8,Anxious,understood,-1
+10269286,5,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,1,0,1,0,0,0,1,0,2,11,8,8,8,8,Non-Anxious,understood,2
+10269286,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,1,0,1,0,0,0,1,0,2,11,8,8,8,8,Anxious,different,-1
+10269286,2,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,1,0,1,0,0,0,1,0,2,11,8,8,8,8,Non-Anxious,different,1
+10269286,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,1,0,1,0,0,0,1,0,2,11,8,8,8,8,Anxious,chat-again,-1
+10269286,5,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,1,0,1,0,0,0,1,0,2,11,8,8,8,8,Non-Anxious,chat-again,2
+10269296,4,B,Normal first,similar,pat_non,I felt that <br>we are similar,3,2,2,1,0,0,4,0,0,0,8,7,8,8,7,Non-Anxious,similar,1
+10269296,1,B,Normal first,similar,pat_non,I felt that <br>we are similar,3,2,2,1,0,0,4,0,0,0,8,7,8,8,7,Anxious,similar,-2
+10269296,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,3,2,2,1,0,0,4,0,0,0,8,7,8,8,7,Non-Anxious,enjoy,1
+10269296,1,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,3,2,2,1,0,0,4,0,0,0,8,7,8,8,7,Anxious,enjoy,-2
+10269296,1,B,Normal first,distant,pat_non,I felt distant <br>from them,3,2,2,1,0,0,4,0,0,0,8,7,8,8,7,Non-Anxious,distant,2
+10269296,1,B,Normal first,distant,pat_non,I felt distant <br>from them,3,2,2,1,0,0,4,0,0,0,8,7,8,8,7,Anxious,distant,2
+10269296,5,B,Normal first,understood,pat_non,I felt that <br>they understood me,3,2,2,1,0,0,4,0,0,0,8,7,8,8,7,Non-Anxious,understood,2
+10269296,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,3,2,2,1,0,0,4,0,0,0,8,7,8,8,7,Anxious,understood,1
+10269296,2,B,Normal first,different,pat_non,I felt that they were <br>different from me,3,2,2,1,0,0,4,0,0,0,8,7,8,8,7,Non-Anxious,different,1
+10269296,5,B,Normal first,different,pat_non,I felt that they were <br>different from me,3,2,2,1,0,0,4,0,0,0,8,7,8,8,7,Anxious,different,-2
+10269296,4,B,Normal first,chat-again,pat_non,I would chat <br>with them again,3,2,2,1,0,0,4,0,0,0,8,7,8,8,7,Non-Anxious,chat-again,1
+10269296,1,B,Normal first,chat-again,pat_non,I would chat <br>with them again,3,2,2,1,0,0,4,0,0,0,8,7,8,8,7,Anxious,chat-again,-2
+10269305,4,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,5,9,10,8,11,0,4,2,9,9,7,11,8,10,8,Anxious,similar,1
+10269305,2,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,5,9,10,8,11,0,4,2,9,9,7,11,8,10,8,Non-Anxious,similar,-1
+10269305,2,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,5,9,10,8,11,0,4,2,9,9,7,11,8,10,8,Anxious,enjoy,-1
+10269305,4,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,5,9,10,8,11,0,4,2,9,9,7,11,8,10,8,Non-Anxious,enjoy,1
+10269305,3,A,Anxious first,distant,pat_anx,I felt distant <br>from them,5,9,10,8,11,0,4,2,9,9,7,11,8,10,8,Anxious,distant,0
+10269305,4,A,Anxious first,distant,pat_anx,I felt distant <br>from them,5,9,10,8,11,0,4,2,9,9,7,11,8,10,8,Non-Anxious,distant,-1
+10269305,4,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,5,9,10,8,11,0,4,2,9,9,7,11,8,10,8,Anxious,understood,1
+10269305,4,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,5,9,10,8,11,0,4,2,9,9,7,11,8,10,8,Non-Anxious,understood,1
+10269305,2,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,5,9,10,8,11,0,4,2,9,9,7,11,8,10,8,Anxious,different,1
+10269305,4,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,5,9,10,8,11,0,4,2,9,9,7,11,8,10,8,Non-Anxious,different,-1
+10269305,2,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,5,9,10,8,11,0,4,2,9,9,7,11,8,10,8,Anxious,chat-again,-1
+10269305,4,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,5,9,10,8,11,0,4,2,9,9,7,11,8,10,8,Non-Anxious,chat-again,1
+10269314,4,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,0,0,0,1,0,0,0,0,0,0,8,7,9,8,8,Anxious,similar,1
+10269314,1,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,0,0,0,1,0,0,0,0,0,0,8,7,9,8,8,Non-Anxious,similar,-2
+10269314,2,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,0,0,0,1,0,0,0,0,0,0,8,7,9,8,8,Anxious,enjoy,-1
+10269314,5,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,0,0,0,1,0,0,0,0,0,0,8,7,9,8,8,Non-Anxious,enjoy,2
+10269314,5,A,Anxious first,distant,pat_anx,I felt distant <br>from them,0,0,0,1,0,0,0,0,0,0,8,7,9,8,8,Anxious,distant,-2
+10269314,2,A,Anxious first,distant,pat_anx,I felt distant <br>from them,0,0,0,1,0,0,0,0,0,0,8,7,9,8,8,Non-Anxious,distant,1
+10269314,2,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,0,0,0,1,0,0,0,0,0,0,8,7,9,8,8,Anxious,understood,-1
+10269314,4,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,0,0,0,1,0,0,0,0,0,0,8,7,9,8,8,Non-Anxious,understood,1
+10269314,5,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,0,0,0,1,0,0,0,0,0,0,8,7,9,8,8,Anxious,different,-2
+10269314,3,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,0,0,0,1,0,0,0,0,0,0,8,7,9,8,8,Non-Anxious,different,0
+10269314,2,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,0,0,0,1,0,0,0,0,0,0,8,7,9,8,8,Anxious,chat-again,-1
+10269314,5,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,0,0,0,1,0,0,0,0,0,0,8,7,9,8,8,Non-Anxious,chat-again,2
+10269319,4,A,Normal first,similar,alex_non,I felt that <br>we are similar,2,0,1,0,0,0,0,1,0,2,8,9,7,9,11,Non-Anxious,similar,1
+10269319,4,A,Normal first,similar,alex_non,I felt that <br>we are similar,2,0,1,0,0,0,0,1,0,2,8,9,7,9,11,Anxious,similar,1
+10269319,4,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,2,0,1,0,0,0,0,1,0,2,8,9,7,9,11,Non-Anxious,enjoy,1
+10269319,4,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,2,0,1,0,0,0,0,1,0,2,8,9,7,9,11,Anxious,enjoy,1
+10269319,2,A,Normal first,distant,alex_non,I felt distant <br>from them,2,0,1,0,0,0,0,1,0,2,8,9,7,9,11,Non-Anxious,distant,1
+10269319,2,A,Normal first,distant,alex_non,I felt distant <br>from them,2,0,1,0,0,0,0,1,0,2,8,9,7,9,11,Anxious,distant,1
+10269319,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,2,0,1,0,0,0,0,1,0,2,8,9,7,9,11,Non-Anxious,understood,1
+10269319,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,2,0,1,0,0,0,0,1,0,2,8,9,7,9,11,Anxious,understood,1
+10269319,2,A,Normal first,different,alex_non,I felt that they were <br>different from me,2,0,1,0,0,0,0,1,0,2,8,9,7,9,11,Non-Anxious,different,1
+10269319,2,A,Normal first,different,alex_non,I felt that they were <br>different from me,2,0,1,0,0,0,0,1,0,2,8,9,7,9,11,Anxious,different,1
+10269319,4,A,Normal first,chat-again,alex_non,I would chat <br>with them again,2,0,1,0,0,0,0,1,0,2,8,9,7,9,11,Non-Anxious,chat-again,1
+10269319,3,A,Normal first,chat-again,alex_non,I would chat <br>with them again,2,0,1,0,0,0,0,1,0,2,8,9,7,9,11,Anxious,chat-again,0
+10269353,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,2,2,1,0,2,0,0,0,0,0,10,10,7,8,11,Anxious,similar,-1
+10269353,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,2,2,1,0,2,0,0,0,0,0,10,10,7,8,11,Non-Anxious,similar,1
+10269353,2,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,2,2,1,0,2,0,0,0,0,0,10,10,7,8,11,Anxious,enjoy,-1
+10269353,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,2,2,1,0,2,0,0,0,0,0,10,10,7,8,11,Non-Anxious,enjoy,1
+10269353,4,B,Anxious first,distant,alex_anx,I felt distant <br>from them,2,2,1,0,2,0,0,0,0,0,10,10,7,8,11,Anxious,distant,-1
+10269353,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,2,2,1,0,2,0,0,0,0,0,10,10,7,8,11,Non-Anxious,distant,1
+10269353,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,2,2,1,0,2,0,0,0,0,0,10,10,7,8,11,Anxious,understood,1
+10269353,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,2,2,1,0,2,0,0,0,0,0,10,10,7,8,11,Non-Anxious,understood,1
+10269353,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,2,2,1,0,2,0,0,0,0,0,10,10,7,8,11,Anxious,different,-1
+10269353,2,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,2,2,1,0,2,0,0,0,0,0,10,10,7,8,11,Non-Anxious,different,1
+10269353,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,2,2,1,0,2,0,0,0,0,0,10,10,7,8,11,Anxious,chat-again,-1
+10269353,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,2,2,1,0,2,0,0,0,0,0,10,10,7,8,11,Non-Anxious,chat-again,1
+10269413,1,B,Normal first,similar,pat_non,I felt that <br>we are similar,6,0,0,0,0,0,0,0,0,1,7,3,7,8,8,Non-Anxious,similar,-2
+10269413,2,B,Normal first,similar,pat_non,I felt that <br>we are similar,6,0,0,0,0,0,0,0,0,1,7,3,7,8,8,Anxious,similar,-1
+10269413,2,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,6,0,0,0,0,0,0,0,0,1,7,3,7,8,8,Non-Anxious,enjoy,-1
+10269413,3,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,6,0,0,0,0,0,0,0,0,1,7,3,7,8,8,Anxious,enjoy,0
+10269413,5,B,Normal first,distant,pat_non,I felt distant <br>from them,6,0,0,0,0,0,0,0,0,1,7,3,7,8,8,Non-Anxious,distant,-2
+10269413,5,B,Normal first,distant,pat_non,I felt distant <br>from them,6,0,0,0,0,0,0,0,0,1,7,3,7,8,8,Anxious,distant,-2
+10269413,2,B,Normal first,understood,pat_non,I felt that <br>they understood me,6,0,0,0,0,0,0,0,0,1,7,3,7,8,8,Non-Anxious,understood,-1
+10269413,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,6,0,0,0,0,0,0,0,0,1,7,3,7,8,8,Anxious,understood,1
+10269413,5,B,Normal first,different,pat_non,I felt that they were <br>different from me,6,0,0,0,0,0,0,0,0,1,7,3,7,8,8,Non-Anxious,different,-2
+10269413,4,B,Normal first,different,pat_non,I felt that they were <br>different from me,6,0,0,0,0,0,0,0,0,1,7,3,7,8,8,Anxious,different,-1
+10269413,1,B,Normal first,chat-again,pat_non,I would chat <br>with them again,6,0,0,0,0,0,0,0,0,1,7,3,7,8,8,Non-Anxious,chat-again,-2
+10269413,1,B,Normal first,chat-again,pat_non,I would chat <br>with them again,6,0,0,0,0,0,0,0,0,1,7,3,7,8,8,Anxious,chat-again,-2
+10269434,3,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,7,6,11,14,8,1,4,2,2,6,10,12,8,11,11,Anxious,similar,0
+10269434,4,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,7,6,11,14,8,1,4,2,2,6,10,12,8,11,11,Non-Anxious,similar,1
+10269434,2,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,7,6,11,14,8,1,4,2,2,6,10,12,8,11,11,Anxious,enjoy,-1
+10269434,4,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,7,6,11,14,8,1,4,2,2,6,10,12,8,11,11,Non-Anxious,enjoy,1
+10269434,4,A,Anxious first,distant,pat_anx,I felt distant <br>from them,7,6,11,14,8,1,4,2,2,6,10,12,8,11,11,Anxious,distant,-1
+10269434,2,A,Anxious first,distant,pat_anx,I felt distant <br>from them,7,6,11,14,8,1,4,2,2,6,10,12,8,11,11,Non-Anxious,distant,1
+10269434,2,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,7,6,11,14,8,1,4,2,2,6,10,12,8,11,11,Anxious,understood,-1
+10269434,4,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,7,6,11,14,8,1,4,2,2,6,10,12,8,11,11,Non-Anxious,understood,1
+10269434,3,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,7,6,11,14,8,1,4,2,2,6,10,12,8,11,11,Anxious,different,0
+10269434,2,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,7,6,11,14,8,1,4,2,2,6,10,12,8,11,11,Non-Anxious,different,1
+10269434,2,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,7,6,11,14,8,1,4,2,2,6,10,12,8,11,11,Anxious,chat-again,-1
+10269434,4,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,7,6,11,14,8,1,4,2,2,6,10,12,8,11,11,Non-Anxious,chat-again,1
+10269440,5,A,Normal first,similar,alex_non,I felt that <br>we are similar,0,2,4,4,2,1,0,1,0,2,9,9,8,11,9,Non-Anxious,similar,2
+10269440,2,A,Normal first,similar,alex_non,I felt that <br>we are similar,0,2,4,4,2,1,0,1,0,2,9,9,8,11,9,Anxious,similar,-1
+10269440,4,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,0,2,4,4,2,1,0,1,0,2,9,9,8,11,9,Non-Anxious,enjoy,1
+10269440,3,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,0,2,4,4,2,1,0,1,0,2,9,9,8,11,9,Anxious,enjoy,0
+10269440,1,A,Normal first,distant,alex_non,I felt distant <br>from them,0,2,4,4,2,1,0,1,0,2,9,9,8,11,9,Non-Anxious,distant,2
+10269440,4,A,Normal first,distant,alex_non,I felt distant <br>from them,0,2,4,4,2,1,0,1,0,2,9,9,8,11,9,Anxious,distant,-1
+10269440,5,A,Normal first,understood,alex_non,I felt that <br>they understood me,0,2,4,4,2,1,0,1,0,2,9,9,8,11,9,Non-Anxious,understood,2
+10269440,2,A,Normal first,understood,alex_non,I felt that <br>they understood me,0,2,4,4,2,1,0,1,0,2,9,9,8,11,9,Anxious,understood,-1
+10269440,1,A,Normal first,different,alex_non,I felt that they were <br>different from me,0,2,4,4,2,1,0,1,0,2,9,9,8,11,9,Non-Anxious,different,2
+10269440,4,A,Normal first,different,alex_non,I felt that they were <br>different from me,0,2,4,4,2,1,0,1,0,2,9,9,8,11,9,Anxious,different,-1
+10269440,5,A,Normal first,chat-again,alex_non,I would chat <br>with them again,0,2,4,4,2,1,0,1,0,2,9,9,8,11,9,Non-Anxious,chat-again,2
+10269440,4,A,Normal first,chat-again,alex_non,I would chat <br>with them again,0,2,4,4,2,1,0,1,0,2,9,9,8,11,9,Anxious,chat-again,1
+10269445,2,A,Normal first,similar,alex_non,I felt that <br>we are similar,9,3,7,21,5,4,3,3,0,4,6,13,8,11,8,Non-Anxious,similar,-1
+10269445,5,A,Normal first,similar,alex_non,I felt that <br>we are similar,9,3,7,21,5,4,3,3,0,4,6,13,8,11,8,Anxious,similar,2
+10269445,5,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,9,3,7,21,5,4,3,3,0,4,6,13,8,11,8,Non-Anxious,enjoy,2
+10269445,5,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,9,3,7,21,5,4,3,3,0,4,6,13,8,11,8,Anxious,enjoy,2
+10269445,5,A,Normal first,distant,alex_non,I felt distant <br>from them,9,3,7,21,5,4,3,3,0,4,6,13,8,11,8,Non-Anxious,distant,-2
+10269445,2,A,Normal first,distant,alex_non,I felt distant <br>from them,9,3,7,21,5,4,3,3,0,4,6,13,8,11,8,Anxious,distant,1
+10269445,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,9,3,7,21,5,4,3,3,0,4,6,13,8,11,8,Non-Anxious,understood,1
+10269445,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,9,3,7,21,5,4,3,3,0,4,6,13,8,11,8,Anxious,understood,1
+10269445,5,A,Normal first,different,alex_non,I felt that they were <br>different from me,9,3,7,21,5,4,3,3,0,4,6,13,8,11,8,Non-Anxious,different,-2
+10269445,2,A,Normal first,different,alex_non,I felt that they were <br>different from me,9,3,7,21,5,4,3,3,0,4,6,13,8,11,8,Anxious,different,1
+10269445,5,A,Normal first,chat-again,alex_non,I would chat <br>with them again,9,3,7,21,5,4,3,3,0,4,6,13,8,11,8,Non-Anxious,chat-again,2
+10269445,5,A,Normal first,chat-again,alex_non,I would chat <br>with them again,9,3,7,21,5,4,3,3,0,4,6,13,8,11,8,Anxious,chat-again,2
+10269450,5,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,12,6,14,13,4,5,0,5,0,3,9,8,14,10,7,Anxious,similar,2
+10269450,1,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,12,6,14,13,4,5,0,5,0,3,9,8,14,10,7,Non-Anxious,similar,-2
+10269450,5,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,12,6,14,13,4,5,0,5,0,3,9,8,14,10,7,Anxious,enjoy,2
+10269450,2,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,12,6,14,13,4,5,0,5,0,3,9,8,14,10,7,Non-Anxious,enjoy,-1
+10269450,5,B,Anxious first,distant,alex_anx,I felt distant <br>from them,12,6,14,13,4,5,0,5,0,3,9,8,14,10,7,Anxious,distant,-2
+10269450,1,B,Anxious first,distant,alex_anx,I felt distant <br>from them,12,6,14,13,4,5,0,5,0,3,9,8,14,10,7,Non-Anxious,distant,2
+10269450,2,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,12,6,14,13,4,5,0,5,0,3,9,8,14,10,7,Anxious,understood,-1
+10269450,5,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,12,6,14,13,4,5,0,5,0,3,9,8,14,10,7,Non-Anxious,understood,2
+10269450,5,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,12,6,14,13,4,5,0,5,0,3,9,8,14,10,7,Anxious,different,-2
+10269450,1,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,12,6,14,13,4,5,0,5,0,3,9,8,14,10,7,Non-Anxious,different,2
+10269450,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,12,6,14,13,4,5,0,5,0,3,9,8,14,10,7,Anxious,chat-again,-1
+10269450,5,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,12,6,14,13,4,5,0,5,0,3,9,8,14,10,7,Non-Anxious,chat-again,2
+10269475,2,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,2,7,3,6,5,1,2,4,15,4,10,8,7,7,2,Anxious,similar,-1
+10269475,4,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,2,7,3,6,5,1,2,4,15,4,10,8,7,7,2,Non-Anxious,similar,1
+10269475,2,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,2,7,3,6,5,1,2,4,15,4,10,8,7,7,2,Anxious,enjoy,-1
+10269475,4,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,2,7,3,6,5,1,2,4,15,4,10,8,7,7,2,Non-Anxious,enjoy,1
+10269475,2,A,Anxious first,distant,pat_anx,I felt distant <br>from them,2,7,3,6,5,1,2,4,15,4,10,8,7,7,2,Anxious,distant,1
+10269475,2,A,Anxious first,distant,pat_anx,I felt distant <br>from them,2,7,3,6,5,1,2,4,15,4,10,8,7,7,2,Non-Anxious,distant,1
+10269475,2,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,2,7,3,6,5,1,2,4,15,4,10,8,7,7,2,Anxious,understood,-1
+10269475,2,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,2,7,3,6,5,1,2,4,15,4,10,8,7,7,2,Non-Anxious,understood,-1
+10269475,3,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,2,7,3,6,5,1,2,4,15,4,10,8,7,7,2,Anxious,different,0
+10269475,3,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,2,7,3,6,5,1,2,4,15,4,10,8,7,7,2,Non-Anxious,different,0
+10269475,1,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,2,7,3,6,5,1,2,4,15,4,10,8,7,7,2,Anxious,chat-again,-2
+10269475,4,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,2,7,3,6,5,1,2,4,15,4,10,8,7,7,2,Non-Anxious,chat-again,1
+10269476,5,B,Normal first,similar,pat_non,I felt that <br>we are similar,5,1,3,3,2,0,1,1,0,1,9,11,9,8,10,Non-Anxious,similar,2
+10269476,3,B,Normal first,similar,pat_non,I felt that <br>we are similar,5,1,3,3,2,0,1,1,0,1,9,11,9,8,10,Anxious,similar,0
+10269476,5,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,5,1,3,3,2,0,1,1,0,1,9,11,9,8,10,Non-Anxious,enjoy,2
+10269476,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,5,1,3,3,2,0,1,1,0,1,9,11,9,8,10,Anxious,enjoy,1
+10269476,1,B,Normal first,distant,pat_non,I felt distant <br>from them,5,1,3,3,2,0,1,1,0,1,9,11,9,8,10,Non-Anxious,distant,2
+10269476,2,B,Normal first,distant,pat_non,I felt distant <br>from them,5,1,3,3,2,0,1,1,0,1,9,11,9,8,10,Anxious,distant,1
+10269476,5,B,Normal first,understood,pat_non,I felt that <br>they understood me,5,1,3,3,2,0,1,1,0,1,9,11,9,8,10,Non-Anxious,understood,2
+10269476,3,B,Normal first,understood,pat_non,I felt that <br>they understood me,5,1,3,3,2,0,1,1,0,1,9,11,9,8,10,Anxious,understood,0
+10269476,1,B,Normal first,different,pat_non,I felt that they were <br>different from me,5,1,3,3,2,0,1,1,0,1,9,11,9,8,10,Non-Anxious,different,2
+10269476,4,B,Normal first,different,pat_non,I felt that they were <br>different from me,5,1,3,3,2,0,1,1,0,1,9,11,9,8,10,Anxious,different,-1
+10269476,5,B,Normal first,chat-again,pat_non,I would chat <br>with them again,5,1,3,3,2,0,1,1,0,1,9,11,9,8,10,Non-Anxious,chat-again,2
+10269476,4,B,Normal first,chat-again,pat_non,I would chat <br>with them again,5,1,3,3,2,0,1,1,0,1,9,11,9,8,10,Anxious,chat-again,1
+10269598,4,A,Normal first,similar,alex_non,I felt that <br>we are similar,3,2,10,8,11,5,6,1,0,9,9,10,11,10,8,Non-Anxious,similar,1
+10269598,1,A,Normal first,similar,alex_non,I felt that <br>we are similar,3,2,10,8,11,5,6,1,0,9,9,10,11,10,8,Anxious,similar,-2
+10269598,3,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,3,2,10,8,11,5,6,1,0,9,9,10,11,10,8,Non-Anxious,enjoy,0
+10269598,1,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,3,2,10,8,11,5,6,1,0,9,9,10,11,10,8,Anxious,enjoy,-2
+10269598,5,A,Normal first,distant,alex_non,I felt distant <br>from them,3,2,10,8,11,5,6,1,0,9,9,10,11,10,8,Non-Anxious,distant,-2
+10269598,5,A,Normal first,distant,alex_non,I felt distant <br>from them,3,2,10,8,11,5,6,1,0,9,9,10,11,10,8,Anxious,distant,-2
+10269598,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,3,2,10,8,11,5,6,1,0,9,9,10,11,10,8,Non-Anxious,understood,1
+10269598,2,A,Normal first,understood,alex_non,I felt that <br>they understood me,3,2,10,8,11,5,6,1,0,9,9,10,11,10,8,Anxious,understood,-1
+10269598,3,A,Normal first,different,alex_non,I felt that they were <br>different from me,3,2,10,8,11,5,6,1,0,9,9,10,11,10,8,Non-Anxious,different,0
+10269598,5,A,Normal first,different,alex_non,I felt that they were <br>different from me,3,2,10,8,11,5,6,1,0,9,9,10,11,10,8,Anxious,different,-2
+10269598,3,A,Normal first,chat-again,alex_non,I would chat <br>with them again,3,2,10,8,11,5,6,1,0,9,9,10,11,10,8,Non-Anxious,chat-again,0
+10269598,1,A,Normal first,chat-again,alex_non,I would chat <br>with them again,3,2,10,8,11,5,6,1,0,9,9,10,11,10,8,Anxious,chat-again,-2
+10269734,5,A,Normal first,similar,alex_non,I felt that <br>we are similar,12,6,2,25,15,1,2,4,6,5,6,7,8,12,4,Non-Anxious,similar,2
+10269734,4,A,Normal first,similar,alex_non,I felt that <br>we are similar,12,6,2,25,15,1,2,4,6,5,6,7,8,12,4,Anxious,similar,1
+10269734,5,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,12,6,2,25,15,1,2,4,6,5,6,7,8,12,4,Non-Anxious,enjoy,2
+10269734,4,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,12,6,2,25,15,1,2,4,6,5,6,7,8,12,4,Anxious,enjoy,1
+10269734,1,A,Normal first,distant,alex_non,I felt distant <br>from them,12,6,2,25,15,1,2,4,6,5,6,7,8,12,4,Non-Anxious,distant,2
+10269734,1,A,Normal first,distant,alex_non,I felt distant <br>from them,12,6,2,25,15,1,2,4,6,5,6,7,8,12,4,Anxious,distant,2
+10269734,5,A,Normal first,understood,alex_non,I felt that <br>they understood me,12,6,2,25,15,1,2,4,6,5,6,7,8,12,4,Non-Anxious,understood,2
+10269734,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,12,6,2,25,15,1,2,4,6,5,6,7,8,12,4,Anxious,understood,1
+10269734,5,A,Normal first,different,alex_non,I felt that they were <br>different from me,12,6,2,25,15,1,2,4,6,5,6,7,8,12,4,Non-Anxious,different,-2
+10269734,5,A,Normal first,different,alex_non,I felt that they were <br>different from me,12,6,2,25,15,1,2,4,6,5,6,7,8,12,4,Anxious,different,-2
+10269734,5,A,Normal first,chat-again,alex_non,I would chat <br>with them again,12,6,2,25,15,1,2,4,6,5,6,7,8,12,4,Non-Anxious,chat-again,2
+10269734,5,A,Normal first,chat-again,alex_non,I would chat <br>with them again,12,6,2,25,15,1,2,4,6,5,6,7,8,12,4,Anxious,chat-again,2
+10269900,2,B,Normal first,similar,pat_non,I felt that <br>we are similar,4,0,2,1,6,5,5,2,1,6,7,7,8,8,12,Non-Anxious,similar,-1
+10269900,2,B,Normal first,similar,pat_non,I felt that <br>we are similar,4,0,2,1,6,5,5,2,1,6,7,7,8,8,12,Anxious,similar,-1
+10269900,2,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,4,0,2,1,6,5,5,2,1,6,7,7,8,8,12,Non-Anxious,enjoy,-1
+10269900,2,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,4,0,2,1,6,5,5,2,1,6,7,7,8,8,12,Anxious,enjoy,-1
+10269900,4,B,Normal first,distant,pat_non,I felt distant <br>from them,4,0,2,1,6,5,5,2,1,6,7,7,8,8,12,Non-Anxious,distant,-1
+10269900,4,B,Normal first,distant,pat_non,I felt distant <br>from them,4,0,2,1,6,5,5,2,1,6,7,7,8,8,12,Anxious,distant,-1
+10269900,2,B,Normal first,understood,pat_non,I felt that <br>they understood me,4,0,2,1,6,5,5,2,1,6,7,7,8,8,12,Non-Anxious,understood,-1
+10269900,2,B,Normal first,understood,pat_non,I felt that <br>they understood me,4,0,2,1,6,5,5,2,1,6,7,7,8,8,12,Anxious,understood,-1
+10269900,4,B,Normal first,different,pat_non,I felt that they were <br>different from me,4,0,2,1,6,5,5,2,1,6,7,7,8,8,12,Non-Anxious,different,-1
+10269900,4,B,Normal first,different,pat_non,I felt that they were <br>different from me,4,0,2,1,6,5,5,2,1,6,7,7,8,8,12,Anxious,different,-1
+10269900,2,B,Normal first,chat-again,pat_non,I would chat <br>with them again,4,0,2,1,6,5,5,2,1,6,7,7,8,8,12,Non-Anxious,chat-again,-1
+10269900,2,B,Normal first,chat-again,pat_non,I would chat <br>with them again,4,0,2,1,6,5,5,2,1,6,7,7,8,8,12,Anxious,chat-again,-1
+10269912,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,7,3,3,5,2,4,1,1,4,7,11,9,8,8,9,Anxious,similar,1
+10269912,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,7,3,3,5,2,4,1,1,4,7,11,9,8,8,9,Non-Anxious,similar,1
+10269912,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,7,3,3,5,2,4,1,1,4,7,11,9,8,8,9,Anxious,enjoy,1
+10269912,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,7,3,3,5,2,4,1,1,4,7,11,9,8,8,9,Non-Anxious,enjoy,1
+10269912,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,7,3,3,5,2,4,1,1,4,7,11,9,8,8,9,Anxious,distant,1
+10269912,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,7,3,3,5,2,4,1,1,4,7,11,9,8,8,9,Non-Anxious,distant,1
+10269912,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,7,3,3,5,2,4,1,1,4,7,11,9,8,8,9,Anxious,understood,1
+10269912,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,7,3,3,5,2,4,1,1,4,7,11,9,8,8,9,Non-Anxious,understood,1
+10269912,3,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,7,3,3,5,2,4,1,1,4,7,11,9,8,8,9,Anxious,different,0
+10269912,3,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,7,3,3,5,2,4,1,1,4,7,11,9,8,8,9,Non-Anxious,different,0
+10269912,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,7,3,3,5,2,4,1,1,4,7,11,9,8,8,9,Anxious,chat-again,1
+10269912,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,7,3,3,5,2,4,1,1,4,7,11,9,8,8,9,Non-Anxious,chat-again,1
+10269942,4,B,Normal first,similar,pat_non,I felt that <br>we are similar,24,11,20,32,8,15,13,4,5,13,9,7,7,8,11,Non-Anxious,similar,1
+10269942,4,B,Normal first,similar,pat_non,I felt that <br>we are similar,24,11,20,32,8,15,13,4,5,13,9,7,7,8,11,Anxious,similar,1
+10269942,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,24,11,20,32,8,15,13,4,5,13,9,7,7,8,11,Non-Anxious,enjoy,1
+10269942,3,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,24,11,20,32,8,15,13,4,5,13,9,7,7,8,11,Anxious,enjoy,0
+10269942,2,B,Normal first,distant,pat_non,I felt distant <br>from them,24,11,20,32,8,15,13,4,5,13,9,7,7,8,11,Non-Anxious,distant,1
+10269942,4,B,Normal first,distant,pat_non,I felt distant <br>from them,24,11,20,32,8,15,13,4,5,13,9,7,7,8,11,Anxious,distant,-1
+10269942,5,B,Normal first,understood,pat_non,I felt that <br>they understood me,24,11,20,32,8,15,13,4,5,13,9,7,7,8,11,Non-Anxious,understood,2
+10269942,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,24,11,20,32,8,15,13,4,5,13,9,7,7,8,11,Anxious,understood,1
+10269942,2,B,Normal first,different,pat_non,I felt that they were <br>different from me,24,11,20,32,8,15,13,4,5,13,9,7,7,8,11,Non-Anxious,different,1
+10269942,3,B,Normal first,different,pat_non,I felt that they were <br>different from me,24,11,20,32,8,15,13,4,5,13,9,7,7,8,11,Anxious,different,0
+10269942,4,B,Normal first,chat-again,pat_non,I would chat <br>with them again,24,11,20,32,8,15,13,4,5,13,9,7,7,8,11,Non-Anxious,chat-again,1
+10269942,2,B,Normal first,chat-again,pat_non,I would chat <br>with them again,24,11,20,32,8,15,13,4,5,13,9,7,7,8,11,Anxious,chat-again,-1
+10270008,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,1,5,5,6,4,0,2,1,1,2,9,7,7,8,7,Anxious,similar,-1
+10270008,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,1,5,5,6,4,0,2,1,1,2,9,7,7,8,7,Non-Anxious,similar,1
+10270008,3,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,1,5,5,6,4,0,2,1,1,2,9,7,7,8,7,Anxious,enjoy,0
+10270008,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,1,5,5,6,4,0,2,1,1,2,9,7,7,8,7,Non-Anxious,enjoy,1
+10270008,3,B,Anxious first,distant,alex_anx,I felt distant <br>from them,1,5,5,6,4,0,2,1,1,2,9,7,7,8,7,Anxious,distant,0
+10270008,4,B,Anxious first,distant,alex_anx,I felt distant <br>from them,1,5,5,6,4,0,2,1,1,2,9,7,7,8,7,Non-Anxious,distant,-1
+10270008,2,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,1,5,5,6,4,0,2,1,1,2,9,7,7,8,7,Anxious,understood,-1
+10270008,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,1,5,5,6,4,0,2,1,1,2,9,7,7,8,7,Non-Anxious,understood,1
+10270008,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,1,5,5,6,4,0,2,1,1,2,9,7,7,8,7,Anxious,different,-1
+10270008,2,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,1,5,5,6,4,0,2,1,1,2,9,7,7,8,7,Non-Anxious,different,1
+10270008,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,1,5,5,6,4,0,2,1,1,2,9,7,7,8,7,Anxious,chat-again,-1
+10270008,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,1,5,5,6,4,0,2,1,1,2,9,7,7,8,7,Non-Anxious,chat-again,1
+10270100,4,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,10,11,12,17,9,12,4,4,8,8,9,9,8,8,8,Anxious,similar,1
+10270100,4,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,10,11,12,17,9,12,4,4,8,8,9,9,8,8,8,Non-Anxious,similar,1
+10270100,4,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,10,11,12,17,9,12,4,4,8,8,9,9,8,8,8,Anxious,enjoy,1
+10270100,4,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,10,11,12,17,9,12,4,4,8,8,9,9,8,8,8,Non-Anxious,enjoy,1
+10270100,2,A,Anxious first,distant,pat_anx,I felt distant <br>from them,10,11,12,17,9,12,4,4,8,8,9,9,8,8,8,Anxious,distant,1
+10270100,2,A,Anxious first,distant,pat_anx,I felt distant <br>from them,10,11,12,17,9,12,4,4,8,8,9,9,8,8,8,Non-Anxious,distant,1
+10270100,4,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,10,11,12,17,9,12,4,4,8,8,9,9,8,8,8,Anxious,understood,1
+10270100,4,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,10,11,12,17,9,12,4,4,8,8,9,9,8,8,8,Non-Anxious,understood,1
+10270100,3,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,10,11,12,17,9,12,4,4,8,8,9,9,8,8,8,Anxious,different,0
+10270100,3,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,10,11,12,17,9,12,4,4,8,8,9,9,8,8,8,Non-Anxious,different,0
+10270100,4,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,10,11,12,17,9,12,4,4,8,8,9,9,8,8,8,Anxious,chat-again,1
+10270100,4,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,10,11,12,17,9,12,4,4,8,8,9,9,8,8,8,Non-Anxious,chat-again,1
+10270275,3,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,8,3,10,9,6,1,4,1,0,0,9,6,9,8,7,Anxious,similar,0
+10270275,3,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,8,3,10,9,6,1,4,1,0,0,9,6,9,8,7,Non-Anxious,similar,0
+10270275,3,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,8,3,10,9,6,1,4,1,0,0,9,6,9,8,7,Anxious,enjoy,0
+10270275,3,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,8,3,10,9,6,1,4,1,0,0,9,6,9,8,7,Non-Anxious,enjoy,0
+10270275,4,A,Anxious first,distant,pat_anx,I felt distant <br>from them,8,3,10,9,6,1,4,1,0,0,9,6,9,8,7,Anxious,distant,-1
+10270275,4,A,Anxious first,distant,pat_anx,I felt distant <br>from them,8,3,10,9,6,1,4,1,0,0,9,6,9,8,7,Non-Anxious,distant,-1
+10270275,3,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,8,3,10,9,6,1,4,1,0,0,9,6,9,8,7,Anxious,understood,0
+10270275,3,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,8,3,10,9,6,1,4,1,0,0,9,6,9,8,7,Non-Anxious,understood,0
+10270275,3,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,8,3,10,9,6,1,4,1,0,0,9,6,9,8,7,Anxious,different,0
+10270275,3,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,8,3,10,9,6,1,4,1,0,0,9,6,9,8,7,Non-Anxious,different,0
+10270275,3,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,8,3,10,9,6,1,4,1,0,0,9,6,9,8,7,Anxious,chat-again,0
+10270275,3,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,8,3,10,9,6,1,4,1,0,0,9,6,9,8,7,Non-Anxious,chat-again,0
+10270371,2,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,6,3,3,3,2,2,2,1,0,5,8,8,7,9,8,Anxious,similar,-1
+10270371,4,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,6,3,3,3,2,2,2,1,0,5,8,8,7,9,8,Non-Anxious,similar,1
+10270371,3,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,6,3,3,3,2,2,2,1,0,5,8,8,7,9,8,Anxious,enjoy,0
+10270371,4,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,6,3,3,3,2,2,2,1,0,5,8,8,7,9,8,Non-Anxious,enjoy,1
+10270371,4,A,Anxious first,distant,pat_anx,I felt distant <br>from them,6,3,3,3,2,2,2,1,0,5,8,8,7,9,8,Anxious,distant,-1
+10270371,3,A,Anxious first,distant,pat_anx,I felt distant <br>from them,6,3,3,3,2,2,2,1,0,5,8,8,7,9,8,Non-Anxious,distant,0
+10270371,2,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,6,3,3,3,2,2,2,1,0,5,8,8,7,9,8,Anxious,understood,-1
+10270371,3,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,6,3,3,3,2,2,2,1,0,5,8,8,7,9,8,Non-Anxious,understood,0
+10270371,4,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,6,3,3,3,2,2,2,1,0,5,8,8,7,9,8,Anxious,different,-1
+10270371,2,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,6,3,3,3,2,2,2,1,0,5,8,8,7,9,8,Non-Anxious,different,1
+10270371,2,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,6,3,3,3,2,2,2,1,0,5,8,8,7,9,8,Anxious,chat-again,-1
+10270371,3,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,6,3,3,3,2,2,2,1,0,5,8,8,7,9,8,Non-Anxious,chat-again,0
+10270474,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,1,1,2,1,0,0,2,0,0,3,4,7,7,8,7,Anxious,similar,-1
+10270474,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,1,1,2,1,0,0,2,0,0,3,4,7,7,8,7,Non-Anxious,similar,1
+10270474,2,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,1,1,2,1,0,0,2,0,0,3,4,7,7,8,7,Anxious,enjoy,-1
+10270474,2,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,1,1,2,1,0,0,2,0,0,3,4,7,7,8,7,Non-Anxious,enjoy,-1
+10270474,4,B,Anxious first,distant,alex_anx,I felt distant <br>from them,1,1,2,1,0,0,2,0,0,3,4,7,7,8,7,Anxious,distant,-1
+10270474,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,1,1,2,1,0,0,2,0,0,3,4,7,7,8,7,Non-Anxious,distant,1
+10270474,2,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,1,1,2,1,0,0,2,0,0,3,4,7,7,8,7,Anxious,understood,-1
+10270474,2,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,1,1,2,1,0,0,2,0,0,3,4,7,7,8,7,Non-Anxious,understood,-1
+10270474,5,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,1,1,2,1,0,0,2,0,0,3,4,7,7,8,7,Anxious,different,-2
+10270474,3,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,1,1,2,1,0,0,2,0,0,3,4,7,7,8,7,Non-Anxious,different,0
+10270474,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,1,1,2,1,0,0,2,0,0,3,4,7,7,8,7,Anxious,chat-again,-1
+10270474,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,1,1,2,1,0,0,2,0,0,3,4,7,7,8,7,Non-Anxious,chat-again,-1
+10270540,2,B,Normal first,similar,pat_non,I felt that <br>we are similar,0,1,2,1,0,0,0,1,0,3,9,11,8,10,7,Non-Anxious,similar,-1
+10270540,5,B,Normal first,similar,pat_non,I felt that <br>we are similar,0,1,2,1,0,0,0,1,0,3,9,11,8,10,7,Anxious,similar,2
+10270540,2,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,0,1,2,1,0,0,0,1,0,3,9,11,8,10,7,Non-Anxious,enjoy,-1
+10270540,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,0,1,2,1,0,0,0,1,0,3,9,11,8,10,7,Anxious,enjoy,1
+10270540,4,B,Normal first,distant,pat_non,I felt distant <br>from them,0,1,2,1,0,0,0,1,0,3,9,11,8,10,7,Non-Anxious,distant,-1
+10270540,2,B,Normal first,distant,pat_non,I felt distant <br>from them,0,1,2,1,0,0,0,1,0,3,9,11,8,10,7,Anxious,distant,1
+10270540,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,0,1,2,1,0,0,0,1,0,3,9,11,8,10,7,Non-Anxious,understood,1
+10270540,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,0,1,2,1,0,0,0,1,0,3,9,11,8,10,7,Anxious,understood,1
+10270540,4,B,Normal first,different,pat_non,I felt that they were <br>different from me,0,1,2,1,0,0,0,1,0,3,9,11,8,10,7,Non-Anxious,different,-1
+10270540,2,B,Normal first,different,pat_non,I felt that they were <br>different from me,0,1,2,1,0,0,0,1,0,3,9,11,8,10,7,Anxious,different,1
+10270540,4,B,Normal first,chat-again,pat_non,I would chat <br>with them again,0,1,2,1,0,0,0,1,0,3,9,11,8,10,7,Non-Anxious,chat-again,1
+10270540,1,B,Normal first,chat-again,pat_non,I would chat <br>with them again,0,1,2,1,0,0,0,1,0,3,9,11,8,10,7,Anxious,chat-again,-2
+10270624,4,A,Normal first,similar,alex_non,I felt that <br>we are similar,1,0,0,0,0,1,0,0,0,1,11,10,8,8,8,Non-Anxious,similar,1
+10270624,1,A,Normal first,similar,alex_non,I felt that <br>we are similar,1,0,0,0,0,1,0,0,0,1,11,10,8,8,8,Anxious,similar,-2
+10270624,4,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,1,0,0,0,0,1,0,0,0,1,11,10,8,8,8,Non-Anxious,enjoy,1
+10270624,4,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,1,0,0,0,0,1,0,0,0,1,11,10,8,8,8,Anxious,enjoy,1
+10270624,2,A,Normal first,distant,alex_non,I felt distant <br>from them,1,0,0,0,0,1,0,0,0,1,11,10,8,8,8,Non-Anxious,distant,1
+10270624,4,A,Normal first,distant,alex_non,I felt distant <br>from them,1,0,0,0,0,1,0,0,0,1,11,10,8,8,8,Anxious,distant,-1
+10270624,5,A,Normal first,understood,alex_non,I felt that <br>they understood me,1,0,0,0,0,1,0,0,0,1,11,10,8,8,8,Non-Anxious,understood,2
+10270624,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,1,0,0,0,0,1,0,0,0,1,11,10,8,8,8,Anxious,understood,1
+10270624,2,A,Normal first,different,alex_non,I felt that they were <br>different from me,1,0,0,0,0,1,0,0,0,1,11,10,8,8,8,Non-Anxious,different,1
+10270624,4,A,Normal first,different,alex_non,I felt that they were <br>different from me,1,0,0,0,0,1,0,0,0,1,11,10,8,8,8,Anxious,different,-1
+10270624,4,A,Normal first,chat-again,alex_non,I would chat <br>with them again,1,0,0,0,0,1,0,0,0,1,11,10,8,8,8,Non-Anxious,chat-again,1
+10270624,4,A,Normal first,chat-again,alex_non,I would chat <br>with them again,1,0,0,0,0,1,0,0,0,1,11,10,8,8,8,Anxious,chat-again,1
+10270847,4,A,Normal first,similar,alex_non,I felt that <br>we are similar,10,11,6,8,4,5,0,0,7,1,10,9,8,10,6,Non-Anxious,similar,1
+10270847,2,A,Normal first,similar,alex_non,I felt that <br>we are similar,10,11,6,8,4,5,0,0,7,1,10,9,8,10,6,Anxious,similar,-1
+10270847,4,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,10,11,6,8,4,5,0,0,7,1,10,9,8,10,6,Non-Anxious,enjoy,1
+10270847,2,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,10,11,6,8,4,5,0,0,7,1,10,9,8,10,6,Anxious,enjoy,-1
+10270847,2,A,Normal first,distant,alex_non,I felt distant <br>from them,10,11,6,8,4,5,0,0,7,1,10,9,8,10,6,Non-Anxious,distant,1
+10270847,4,A,Normal first,distant,alex_non,I felt distant <br>from them,10,11,6,8,4,5,0,0,7,1,10,9,8,10,6,Anxious,distant,-1
+10270847,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,10,11,6,8,4,5,0,0,7,1,10,9,8,10,6,Non-Anxious,understood,1
+10270847,3,A,Normal first,understood,alex_non,I felt that <br>they understood me,10,11,6,8,4,5,0,0,7,1,10,9,8,10,6,Anxious,understood,0
+10270847,4,A,Normal first,different,alex_non,I felt that they were <br>different from me,10,11,6,8,4,5,0,0,7,1,10,9,8,10,6,Non-Anxious,different,-1
+10270847,3,A,Normal first,different,alex_non,I felt that they were <br>different from me,10,11,6,8,4,5,0,0,7,1,10,9,8,10,6,Anxious,different,0
+10270847,3,A,Normal first,chat-again,alex_non,I would chat <br>with them again,10,11,6,8,4,5,0,0,7,1,10,9,8,10,6,Non-Anxious,chat-again,0
+10270847,2,A,Normal first,chat-again,alex_non,I would chat <br>with them again,10,11,6,8,4,5,0,0,7,1,10,9,8,10,6,Anxious,chat-again,-1
+10288304,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,8,6,17,12,9,0,4,8,0,14,8,12,9,5,9,Anxious,similar,-1
+10288304,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,8,6,17,12,9,0,4,8,0,14,8,12,9,5,9,Non-Anxious,similar,1
+10288304,3,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,8,6,17,12,9,0,4,8,0,14,8,12,9,5,9,Anxious,enjoy,0
+10288304,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,8,6,17,12,9,0,4,8,0,14,8,12,9,5,9,Non-Anxious,enjoy,1
+10288304,5,B,Anxious first,distant,alex_anx,I felt distant <br>from them,8,6,17,12,9,0,4,8,0,14,8,12,9,5,9,Anxious,distant,-2
+10288304,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,8,6,17,12,9,0,4,8,0,14,8,12,9,5,9,Non-Anxious,distant,1
+10288304,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,8,6,17,12,9,0,4,8,0,14,8,12,9,5,9,Anxious,understood,1
+10288304,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,8,6,17,12,9,0,4,8,0,14,8,12,9,5,9,Non-Anxious,understood,1
+10288304,5,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,8,6,17,12,9,0,4,8,0,14,8,12,9,5,9,Anxious,different,-2
+10288304,2,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,8,6,17,12,9,0,4,8,0,14,8,12,9,5,9,Non-Anxious,different,1
+10288304,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,8,6,17,12,9,0,4,8,0,14,8,12,9,5,9,Anxious,chat-again,-1
+10288304,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,8,6,17,12,9,0,4,8,0,14,8,12,9,5,9,Non-Anxious,chat-again,1
+10288907,1,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,7,4,10,14,4,3,5,3,0,3,7,8,9,5,8,Anxious,similar,-2
+10288907,5,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,7,4,10,14,4,3,5,3,0,3,7,8,9,5,8,Non-Anxious,similar,2
+10288907,1,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,7,4,10,14,4,3,5,3,0,3,7,8,9,5,8,Anxious,enjoy,-2
+10288907,5,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,7,4,10,14,4,3,5,3,0,3,7,8,9,5,8,Non-Anxious,enjoy,2
+10288907,5,A,Anxious first,distant,pat_anx,I felt distant <br>from them,7,4,10,14,4,3,5,3,0,3,7,8,9,5,8,Anxious,distant,-2
+10288907,1,A,Anxious first,distant,pat_anx,I felt distant <br>from them,7,4,10,14,4,3,5,3,0,3,7,8,9,5,8,Non-Anxious,distant,2
+10288907,1,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,7,4,10,14,4,3,5,3,0,3,7,8,9,5,8,Anxious,understood,-2
+10288907,5,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,7,4,10,14,4,3,5,3,0,3,7,8,9,5,8,Non-Anxious,understood,2
+10288907,5,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,7,4,10,14,4,3,5,3,0,3,7,8,9,5,8,Anxious,different,-2
+10288907,1,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,7,4,10,14,4,3,5,3,0,3,7,8,9,5,8,Non-Anxious,different,2
+10288907,1,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,7,4,10,14,4,3,5,3,0,3,7,8,9,5,8,Anxious,chat-again,-2
+10288907,5,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,7,4,10,14,4,3,5,3,0,3,7,8,9,5,8,Non-Anxious,chat-again,2
+10290591,2,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,10,0,0,0,0,0,0,0,0,4,10,8,11,7,8,Anxious,similar,-1
+10290591,4,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,10,0,0,0,0,0,0,0,0,4,10,8,11,7,8,Non-Anxious,similar,1
+10290591,4,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,10,0,0,0,0,0,0,0,0,4,10,8,11,7,8,Anxious,enjoy,1
+10290591,4,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,10,0,0,0,0,0,0,0,0,4,10,8,11,7,8,Non-Anxious,enjoy,1
+10290591,2,A,Anxious first,distant,pat_anx,I felt distant <br>from them,10,0,0,0,0,0,0,0,0,4,10,8,11,7,8,Anxious,distant,1
+10290591,2,A,Anxious first,distant,pat_anx,I felt distant <br>from them,10,0,0,0,0,0,0,0,0,4,10,8,11,7,8,Non-Anxious,distant,1
+10290591,3,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,10,0,0,0,0,0,0,0,0,4,10,8,11,7,8,Anxious,understood,0
+10290591,4,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,10,0,0,0,0,0,0,0,0,4,10,8,11,7,8,Non-Anxious,understood,1
+10290591,4,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,10,0,0,0,0,0,0,0,0,4,10,8,11,7,8,Anxious,different,-1
+10290591,2,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,10,0,0,0,0,0,0,0,0,4,10,8,11,7,8,Non-Anxious,different,1
+10290591,4,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,10,0,0,0,0,0,0,0,0,4,10,8,11,7,8,Anxious,chat-again,1
+10290591,4,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,10,0,0,0,0,0,0,0,0,4,10,8,11,7,8,Non-Anxious,chat-again,1
+10291341,4,A,Normal first,similar,alex_non,I felt that <br>we are similar,10,1,1,11,4,1,1,1,0,4,7,9,10,8,5,Non-Anxious,similar,1
+10291341,2,A,Normal first,similar,alex_non,I felt that <br>we are similar,10,1,1,11,4,1,1,1,0,4,7,9,10,8,5,Anxious,similar,-1
+10291341,5,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,10,1,1,11,4,1,1,1,0,4,7,9,10,8,5,Non-Anxious,enjoy,2
+10291341,4,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,10,1,1,11,4,1,1,1,0,4,7,9,10,8,5,Anxious,enjoy,1
+10291341,2,A,Normal first,distant,alex_non,I felt distant <br>from them,10,1,1,11,4,1,1,1,0,4,7,9,10,8,5,Non-Anxious,distant,1
+10291341,3,A,Normal first,distant,alex_non,I felt distant <br>from them,10,1,1,11,4,1,1,1,0,4,7,9,10,8,5,Anxious,distant,0
+10291341,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,10,1,1,11,4,1,1,1,0,4,7,9,10,8,5,Non-Anxious,understood,1
+10291341,2,A,Normal first,understood,alex_non,I felt that <br>they understood me,10,1,1,11,4,1,1,1,0,4,7,9,10,8,5,Anxious,understood,-1
+10291341,2,A,Normal first,different,alex_non,I felt that they were <br>different from me,10,1,1,11,4,1,1,1,0,4,7,9,10,8,5,Non-Anxious,different,1
+10291341,4,A,Normal first,different,alex_non,I felt that they were <br>different from me,10,1,1,11,4,1,1,1,0,4,7,9,10,8,5,Anxious,different,-1
+10291341,5,A,Normal first,chat-again,alex_non,I would chat <br>with them again,10,1,1,11,4,1,1,1,0,4,7,9,10,8,5,Non-Anxious,chat-again,2
+10291341,4,A,Normal first,chat-again,alex_non,I would chat <br>with them again,10,1,1,11,4,1,1,1,0,4,7,9,10,8,5,Anxious,chat-again,1
+10295692,2,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,2,1,1,5,1,3,1,0,1,3,9,8,8,10,7,Anxious,similar,-1
+10295692,3,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,2,1,1,5,1,3,1,0,1,3,9,8,8,10,7,Non-Anxious,similar,0
+10295692,2,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,2,1,1,5,1,3,1,0,1,3,9,8,8,10,7,Anxious,enjoy,-1
+10295692,4,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,2,1,1,5,1,3,1,0,1,3,9,8,8,10,7,Non-Anxious,enjoy,1
+10295692,4,A,Anxious first,distant,pat_anx,I felt distant <br>from them,2,1,1,5,1,3,1,0,1,3,9,8,8,10,7,Anxious,distant,-1
+10295692,3,A,Anxious first,distant,pat_anx,I felt distant <br>from them,2,1,1,5,1,3,1,0,1,3,9,8,8,10,7,Non-Anxious,distant,0
+10295692,3,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,2,1,1,5,1,3,1,0,1,3,9,8,8,10,7,Anxious,understood,0
+10295692,3,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,2,1,1,5,1,3,1,0,1,3,9,8,8,10,7,Non-Anxious,understood,0
+10295692,4,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,2,1,1,5,1,3,1,0,1,3,9,8,8,10,7,Anxious,different,-1
+10295692,4,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,2,1,1,5,1,3,1,0,1,3,9,8,8,10,7,Non-Anxious,different,-1
+10295692,2,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,2,1,1,5,1,3,1,0,1,3,9,8,8,10,7,Anxious,chat-again,-1
+10295692,4,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,2,1,1,5,1,3,1,0,1,3,9,8,8,10,7,Non-Anxious,chat-again,1
+10310934,5,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,2,9,10,12,1,2,7,1,0,7,11,4,13,9,Anxious,similar,2
+10310934,4,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,2,9,10,12,1,2,7,1,0,7,11,4,13,9,Non-Anxious,similar,1
+10310934,5,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,2,9,10,12,1,2,7,1,0,7,11,4,13,9,Anxious,enjoy,2
+10310934,3,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,2,9,10,12,1,2,7,1,0,7,11,4,13,9,Non-Anxious,enjoy,0
+10310934,1,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,2,9,10,12,1,2,7,1,0,7,11,4,13,9,Anxious,distant,2
+10310934,4,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,2,9,10,12,1,2,7,1,0,7,11,4,13,9,Non-Anxious,distant,-1
+10310934,5,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,2,9,10,12,1,2,7,1,0,7,11,4,13,9,Anxious,understood,2
+10310934,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,2,9,10,12,1,2,7,1,0,7,11,4,13,9,Non-Anxious,understood,1
+10310934,1,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,2,9,10,12,1,2,7,1,0,7,11,4,13,9,Anxious,different,2
+10310934,1,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,2,9,10,12,1,2,7,1,0,7,11,4,13,9,Non-Anxious,different,2
+10310934,5,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,2,9,10,12,1,2,7,1,0,7,11,4,13,9,Anxious,chat-again,2
+10310934,3,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,2,9,10,12,1,2,7,1,0,7,11,4,13,9,Non-Anxious,chat-again,0
+10314870,2,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,1,0,0,0,0,0,0,1,0,6,8,9,8,7,9,Anxious,similar,-1
+10314870,5,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,1,0,0,0,0,0,0,1,0,6,8,9,8,7,9,Non-Anxious,similar,2
+10314870,4,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,1,0,0,0,0,0,0,1,0,6,8,9,8,7,9,Anxious,enjoy,1
+10314870,5,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,1,0,0,0,0,0,0,1,0,6,8,9,8,7,9,Non-Anxious,enjoy,2
+10314870,2,A,Anxious first,distant,pat_anx,I felt distant <br>from them,1,0,0,0,0,0,0,1,0,6,8,9,8,7,9,Anxious,distant,1
+10314870,1,A,Anxious first,distant,pat_anx,I felt distant <br>from them,1,0,0,0,0,0,0,1,0,6,8,9,8,7,9,Non-Anxious,distant,2
+10314870,5,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,1,0,0,0,0,0,0,1,0,6,8,9,8,7,9,Anxious,understood,2
+10314870,5,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,1,0,0,0,0,0,0,1,0,6,8,9,8,7,9,Non-Anxious,understood,2
+10314870,2,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,1,0,0,0,0,0,0,1,0,6,8,9,8,7,9,Anxious,different,1
+10314870,1,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,1,0,0,0,0,0,0,1,0,6,8,9,8,7,9,Non-Anxious,different,2
+10314870,5,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,1,0,0,0,0,0,0,1,0,6,8,9,8,7,9,Anxious,chat-again,2
+10314870,5,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,1,0,0,0,0,0,0,1,0,6,8,9,8,7,9,Non-Anxious,chat-again,2
+10317326,1,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,0,13,21,29,10,15,19,1,3,9,9,10,10,7,8,Anxious,similar,-2
+10317326,4,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,0,13,21,29,10,15,19,1,3,9,9,10,10,7,8,Non-Anxious,similar,1
+10317326,2,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,0,13,21,29,10,15,19,1,3,9,9,10,10,7,8,Anxious,enjoy,-1
+10317326,5,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,0,13,21,29,10,15,19,1,3,9,9,10,10,7,8,Non-Anxious,enjoy,2
+10317326,4,A,Anxious first,distant,pat_anx,I felt distant <br>from them,0,13,21,29,10,15,19,1,3,9,9,10,10,7,8,Anxious,distant,-1
+10317326,2,A,Anxious first,distant,pat_anx,I felt distant <br>from them,0,13,21,29,10,15,19,1,3,9,9,10,10,7,8,Non-Anxious,distant,1
+10317326,1,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,0,13,21,29,10,15,19,1,3,9,9,10,10,7,8,Anxious,understood,-2
+10317326,4,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,0,13,21,29,10,15,19,1,3,9,9,10,10,7,8,Non-Anxious,understood,1
+10317326,5,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,0,13,21,29,10,15,19,1,3,9,9,10,10,7,8,Anxious,different,-2
+10317326,2,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,0,13,21,29,10,15,19,1,3,9,9,10,10,7,8,Non-Anxious,different,1
+10317326,1,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,0,13,21,29,10,15,19,1,3,9,9,10,10,7,8,Anxious,chat-again,-2
+10317326,3,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,0,13,21,29,10,15,19,1,3,9,9,10,10,7,8,Non-Anxious,chat-again,0
+10318720,3,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,0,0,0,1,0,0,0,0,0,10,8,5,8,8,Anxious,similar,0
+10318720,3,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,0,0,0,1,0,0,0,0,0,10,8,5,8,8,Non-Anxious,similar,0
+10318720,2,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,0,0,0,1,0,0,0,0,0,10,8,5,8,8,Anxious,enjoy,-1
+10318720,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,0,0,0,1,0,0,0,0,0,10,8,5,8,8,Non-Anxious,enjoy,1
+10318720,3,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,0,0,0,1,0,0,0,0,0,10,8,5,8,8,Anxious,distant,0
+10318720,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,0,0,0,1,0,0,0,0,0,10,8,5,8,8,Non-Anxious,distant,1
+10318720,2,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,0,0,0,1,0,0,0,0,0,10,8,5,8,8,Anxious,understood,-1
+10318720,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,0,0,0,1,0,0,0,0,0,10,8,5,8,8,Non-Anxious,understood,1
+10318720,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,0,0,0,1,0,0,0,0,0,10,8,5,8,8,Anxious,different,-1
+10318720,3,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,0,0,0,1,0,0,0,0,0,10,8,5,8,8,Non-Anxious,different,0
+10318720,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,0,0,0,1,0,0,0,0,0,10,8,5,8,8,Anxious,chat-again,-1
+10318720,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,0,0,0,1,0,0,0,0,0,10,8,5,8,8,Non-Anxious,chat-again,1
+10319013,3,A,Normal first,similar,alex_non,I felt that <br>we are similar,5,0,2,2,1,0,0,0,0,1,8,8,9,9,8,Non-Anxious,similar,0
+10319013,2,A,Normal first,similar,alex_non,I felt that <br>we are similar,5,0,2,2,1,0,0,0,0,1,8,8,9,9,8,Anxious,similar,-1
+10319013,4,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,5,0,2,2,1,0,0,0,0,1,8,8,9,9,8,Non-Anxious,enjoy,1
+10319013,1,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,5,0,2,2,1,0,0,0,0,1,8,8,9,9,8,Anxious,enjoy,-2
+10319013,2,A,Normal first,distant,alex_non,I felt distant <br>from them,5,0,2,2,1,0,0,0,0,1,8,8,9,9,8,Non-Anxious,distant,1
+10319013,4,A,Normal first,distant,alex_non,I felt distant <br>from them,5,0,2,2,1,0,0,0,0,1,8,8,9,9,8,Anxious,distant,-1
+10319013,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,5,0,2,2,1,0,0,0,0,1,8,8,9,9,8,Non-Anxious,understood,1
+10319013,2,A,Normal first,understood,alex_non,I felt that <br>they understood me,5,0,2,2,1,0,0,0,0,1,8,8,9,9,8,Anxious,understood,-1
+10319013,5,A,Normal first,different,alex_non,I felt that they were <br>different from me,5,0,2,2,1,0,0,0,0,1,8,8,9,9,8,Non-Anxious,different,-2
+10319013,5,A,Normal first,different,alex_non,I felt that they were <br>different from me,5,0,2,2,1,0,0,0,0,1,8,8,9,9,8,Anxious,different,-2
+10319013,3,A,Normal first,chat-again,alex_non,I would chat <br>with them again,5,0,2,2,1,0,0,0,0,1,8,8,9,9,8,Non-Anxious,chat-again,0
+10319013,1,A,Normal first,chat-again,alex_non,I would chat <br>with them again,5,0,2,2,1,0,0,0,0,1,8,8,9,9,8,Anxious,chat-again,-2
+10320108,1,B,Normal first,similar,pat_non,I felt that <br>we are similar,18,19,22,32,21,15,8,11,14,13,7,6,11,10,13,Non-Anxious,similar,-2
+10320108,5,B,Normal first,similar,pat_non,I felt that <br>we are similar,18,19,22,32,21,15,8,11,14,13,7,6,11,10,13,Anxious,similar,2
+10320108,2,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,18,19,22,32,21,15,8,11,14,13,7,6,11,10,13,Non-Anxious,enjoy,-1
+10320108,5,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,18,19,22,32,21,15,8,11,14,13,7,6,11,10,13,Anxious,enjoy,2
+10320108,4,B,Normal first,distant,pat_non,I felt distant <br>from them,18,19,22,32,21,15,8,11,14,13,7,6,11,10,13,Non-Anxious,distant,-1
+10320108,1,B,Normal first,distant,pat_non,I felt distant <br>from them,18,19,22,32,21,15,8,11,14,13,7,6,11,10,13,Anxious,distant,2
+10320108,3,B,Normal first,understood,pat_non,I felt that <br>they understood me,18,19,22,32,21,15,8,11,14,13,7,6,11,10,13,Non-Anxious,understood,0
+10320108,5,B,Normal first,understood,pat_non,I felt that <br>they understood me,18,19,22,32,21,15,8,11,14,13,7,6,11,10,13,Anxious,understood,2
+10320108,5,B,Normal first,different,pat_non,I felt that they were <br>different from me,18,19,22,32,21,15,8,11,14,13,7,6,11,10,13,Non-Anxious,different,-2
+10320108,1,B,Normal first,different,pat_non,I felt that they were <br>different from me,18,19,22,32,21,15,8,11,14,13,7,6,11,10,13,Anxious,different,2
+10320108,3,B,Normal first,chat-again,pat_non,I would chat <br>with them again,18,19,22,32,21,15,8,11,14,13,7,6,11,10,13,Non-Anxious,chat-again,0
+10320108,5,B,Normal first,chat-again,pat_non,I would chat <br>with them again,18,19,22,32,21,15,8,11,14,13,7,6,11,10,13,Anxious,chat-again,2
+10331151,5,A,Normal first,similar,alex_non,I felt that <br>we are similar,2,1,1,1,2,0,0,0,0,4,7,10,10,8,12,Non-Anxious,similar,2
+10331151,1,A,Normal first,similar,alex_non,I felt that <br>we are similar,2,1,1,1,2,0,0,0,0,4,7,10,10,8,12,Anxious,similar,-2
+10331151,4,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,2,1,1,1,2,0,0,0,0,4,7,10,10,8,12,Non-Anxious,enjoy,1
+10331151,1,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,2,1,1,1,2,0,0,0,0,4,7,10,10,8,12,Anxious,enjoy,-2
+10331151,4,A,Normal first,distant,alex_non,I felt distant <br>from them,2,1,1,1,2,0,0,0,0,4,7,10,10,8,12,Non-Anxious,distant,-1
+10331151,5,A,Normal first,distant,alex_non,I felt distant <br>from them,2,1,1,1,2,0,0,0,0,4,7,10,10,8,12,Anxious,distant,-2
+10331151,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,2,1,1,1,2,0,0,0,0,4,7,10,10,8,12,Non-Anxious,understood,1
+10331151,1,A,Normal first,understood,alex_non,I felt that <br>they understood me,2,1,1,1,2,0,0,0,0,4,7,10,10,8,12,Anxious,understood,-2
+10331151,2,A,Normal first,different,alex_non,I felt that they were <br>different from me,2,1,1,1,2,0,0,0,0,4,7,10,10,8,12,Non-Anxious,different,1
+10331151,5,A,Normal first,different,alex_non,I felt that they were <br>different from me,2,1,1,1,2,0,0,0,0,4,7,10,10,8,12,Anxious,different,-2
+10331151,4,A,Normal first,chat-again,alex_non,I would chat <br>with them again,2,1,1,1,2,0,0,0,0,4,7,10,10,8,12,Non-Anxious,chat-again,1
+10331151,1,A,Normal first,chat-again,alex_non,I would chat <br>with them again,2,1,1,1,2,0,0,0,0,4,7,10,10,8,12,Anxious,chat-again,-2
+10332599,4,B,Normal first,similar,pat_non,I felt that <br>we are similar,7,11,12,17,11,11,9,3,4,8,8,10,11,10,11,Non-Anxious,similar,1
+10332599,5,B,Normal first,similar,pat_non,I felt that <br>we are similar,7,11,12,17,11,11,9,3,4,8,8,10,11,10,11,Anxious,similar,2
+10332599,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,7,11,12,17,11,11,9,3,4,8,8,10,11,10,11,Non-Anxious,enjoy,1
+10332599,5,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,7,11,12,17,11,11,9,3,4,8,8,10,11,10,11,Anxious,enjoy,2
+10332599,3,B,Normal first,distant,pat_non,I felt distant <br>from them,7,11,12,17,11,11,9,3,4,8,8,10,11,10,11,Non-Anxious,distant,0
+10332599,2,B,Normal first,distant,pat_non,I felt distant <br>from them,7,11,12,17,11,11,9,3,4,8,8,10,11,10,11,Anxious,distant,1
+10332599,3,B,Normal first,understood,pat_non,I felt that <br>they understood me,7,11,12,17,11,11,9,3,4,8,8,10,11,10,11,Non-Anxious,understood,0
+10332599,5,B,Normal first,understood,pat_non,I felt that <br>they understood me,7,11,12,17,11,11,9,3,4,8,8,10,11,10,11,Anxious,understood,2
+10332599,4,B,Normal first,different,pat_non,I felt that they were <br>different from me,7,11,12,17,11,11,9,3,4,8,8,10,11,10,11,Non-Anxious,different,-1
+10332599,2,B,Normal first,different,pat_non,I felt that they were <br>different from me,7,11,12,17,11,11,9,3,4,8,8,10,11,10,11,Anxious,different,1
+10332599,3,B,Normal first,chat-again,pat_non,I would chat <br>with them again,7,11,12,17,11,11,9,3,4,8,8,10,11,10,11,Non-Anxious,chat-again,0
+10332599,5,B,Normal first,chat-again,pat_non,I would chat <br>with them again,7,11,12,17,11,11,9,3,4,8,8,10,11,10,11,Anxious,chat-again,2
+10332661,5,A,Normal first,similar,alex_non,I felt that <br>we are similar,1,0,0,0,0,0,0,0,0,2,8,7,7,8,7,Non-Anxious,similar,2
+10332661,1,A,Normal first,similar,alex_non,I felt that <br>we are similar,1,0,0,0,0,0,0,0,0,2,8,7,7,8,7,Anxious,similar,-2
+10332661,5,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,1,0,0,0,0,0,0,0,0,2,8,7,7,8,7,Non-Anxious,enjoy,2
+10332661,3,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,1,0,0,0,0,0,0,0,0,2,8,7,7,8,7,Anxious,enjoy,0
+10332661,1,A,Normal first,distant,alex_non,I felt distant <br>from them,1,0,0,0,0,0,0,0,0,2,8,7,7,8,7,Non-Anxious,distant,2
+10332661,4,A,Normal first,distant,alex_non,I felt distant <br>from them,1,0,0,0,0,0,0,0,0,2,8,7,7,8,7,Anxious,distant,-1
+10332661,4,A,Normal first,understood,alex_non,I felt that <br>they understood me,1,0,0,0,0,0,0,0,0,2,8,7,7,8,7,Non-Anxious,understood,1
+10332661,2,A,Normal first,understood,alex_non,I felt that <br>they understood me,1,0,0,0,0,0,0,0,0,2,8,7,7,8,7,Anxious,understood,-1
+10332661,2,A,Normal first,different,alex_non,I felt that they were <br>different from me,1,0,0,0,0,0,0,0,0,2,8,7,7,8,7,Non-Anxious,different,1
+10332661,5,A,Normal first,different,alex_non,I felt that they were <br>different from me,1,0,0,0,0,0,0,0,0,2,8,7,7,8,7,Anxious,different,-2
+10332661,4,A,Normal first,chat-again,alex_non,I would chat <br>with them again,1,0,0,0,0,0,0,0,0,2,8,7,7,8,7,Non-Anxious,chat-again,1
+10332661,2,A,Normal first,chat-again,alex_non,I would chat <br>with them again,1,0,0,0,0,0,0,0,0,2,8,7,7,8,7,Anxious,chat-again,-1
+10333863,4,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,27,21,18,25,18,13,10,9,9,11,8,12,10,9,8,Anxious,similar,1
+10333863,5,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,27,21,18,25,18,13,10,9,9,11,8,12,10,9,8,Non-Anxious,similar,2
+10333863,4,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,27,21,18,25,18,13,10,9,9,11,8,12,10,9,8,Anxious,enjoy,1
+10333863,4,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,27,21,18,25,18,13,10,9,9,11,8,12,10,9,8,Non-Anxious,enjoy,1
+10333863,2,A,Anxious first,distant,pat_anx,I felt distant <br>from them,27,21,18,25,18,13,10,9,9,11,8,12,10,9,8,Anxious,distant,1
+10333863,4,A,Anxious first,distant,pat_anx,I felt distant <br>from them,27,21,18,25,18,13,10,9,9,11,8,12,10,9,8,Non-Anxious,distant,-1
+10333863,4,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,27,21,18,25,18,13,10,9,9,11,8,12,10,9,8,Anxious,understood,1
+10333863,4,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,27,21,18,25,18,13,10,9,9,11,8,12,10,9,8,Non-Anxious,understood,1
+10333863,2,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,27,21,18,25,18,13,10,9,9,11,8,12,10,9,8,Anxious,different,1
+10333863,3,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,27,21,18,25,18,13,10,9,9,11,8,12,10,9,8,Non-Anxious,different,0
+10333863,2,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,27,21,18,25,18,13,10,9,9,11,8,12,10,9,8,Anxious,chat-again,-1
+10333863,4,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,27,21,18,25,18,13,10,9,9,11,8,12,10,9,8,Non-Anxious,chat-again,1
+10333977,2,B,Normal first,similar,pat_non,I felt that <br>we are similar,2,1,1,1,0,2,2,2,2,0,11,9,8,6,8,Non-Anxious,similar,-1
+10333977,2,B,Normal first,similar,pat_non,I felt that <br>we are similar,2,1,1,1,0,2,2,2,2,0,11,9,8,6,8,Anxious,similar,-1
+10333977,5,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,2,1,1,1,0,2,2,2,2,0,11,9,8,6,8,Non-Anxious,enjoy,2
+10333977,5,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,2,1,1,1,0,2,2,2,2,0,11,9,8,6,8,Anxious,enjoy,2
+10333977,5,B,Normal first,distant,pat_non,I felt distant <br>from them,2,1,1,1,0,2,2,2,2,0,11,9,8,6,8,Non-Anxious,distant,-2
+10333977,5,B,Normal first,distant,pat_non,I felt distant <br>from them,2,1,1,1,0,2,2,2,2,0,11,9,8,6,8,Anxious,distant,-2
+10333977,2,B,Normal first,understood,pat_non,I felt that <br>they understood me,2,1,1,1,0,2,2,2,2,0,11,9,8,6,8,Non-Anxious,understood,-1
+10333977,2,B,Normal first,understood,pat_non,I felt that <br>they understood me,2,1,1,1,0,2,2,2,2,0,11,9,8,6,8,Anxious,understood,-1
+10333977,5,B,Normal first,different,pat_non,I felt that they were <br>different from me,2,1,1,1,0,2,2,2,2,0,11,9,8,6,8,Non-Anxious,different,-2
+10333977,5,B,Normal first,different,pat_non,I felt that they were <br>different from me,2,1,1,1,0,2,2,2,2,0,11,9,8,6,8,Anxious,different,-2
+10333977,5,B,Normal first,chat-again,pat_non,I would chat <br>with them again,2,1,1,1,0,2,2,2,2,0,11,9,8,6,8,Non-Anxious,chat-again,2
+10333977,5,B,Normal first,chat-again,pat_non,I would chat <br>with them again,2,1,1,1,0,2,2,2,2,0,11,9,8,6,8,Anxious,chat-again,2
+10334514,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,1,0,1,2,0,1,0,0,0,8,8,7,8,9,Anxious,similar,-1
+10334514,2,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,0,1,0,1,2,0,1,0,0,0,8,8,7,8,9,Non-Anxious,similar,-1
+10334514,3,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,1,0,1,2,0,1,0,0,0,8,8,7,8,9,Anxious,enjoy,0
+10334514,3,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,0,1,0,1,2,0,1,0,0,0,8,8,7,8,9,Non-Anxious,enjoy,0
+10334514,4,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,1,0,1,2,0,1,0,0,0,8,8,7,8,9,Anxious,distant,-1
+10334514,4,B,Anxious first,distant,alex_anx,I felt distant <br>from them,0,1,0,1,2,0,1,0,0,0,8,8,7,8,9,Non-Anxious,distant,-1
+10334514,2,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,1,0,1,2,0,1,0,0,0,8,8,7,8,9,Anxious,understood,-1
+10334514,3,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,0,1,0,1,2,0,1,0,0,0,8,8,7,8,9,Non-Anxious,understood,0
+10334514,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,1,0,1,2,0,1,0,0,0,8,8,7,8,9,Anxious,different,-1
+10334514,4,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,0,1,0,1,2,0,1,0,0,0,8,8,7,8,9,Non-Anxious,different,-1
+10334514,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,1,0,1,2,0,1,0,0,0,8,8,7,8,9,Anxious,chat-again,-1
+10334514,2,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,0,1,0,1,2,0,1,0,0,0,8,8,7,8,9,Non-Anxious,chat-again,-1
+10346871,2,B,Normal first,similar,pat_non,I felt that <br>we are similar,4,3,12,18,10,5,7,1,0,5,8,7,9,8,5,Non-Anxious,similar,-1
+10346871,3,B,Normal first,similar,pat_non,I felt that <br>we are similar,4,3,12,18,10,5,7,1,0,5,8,7,9,8,5,Anxious,similar,0
+10346871,3,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,4,3,12,18,10,5,7,1,0,5,8,7,9,8,5,Non-Anxious,enjoy,0
+10346871,3,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,4,3,12,18,10,5,7,1,0,5,8,7,9,8,5,Anxious,enjoy,0
+10346871,2,B,Normal first,distant,pat_non,I felt distant <br>from them,4,3,12,18,10,5,7,1,0,5,8,7,9,8,5,Non-Anxious,distant,1
+10346871,2,B,Normal first,distant,pat_non,I felt distant <br>from them,4,3,12,18,10,5,7,1,0,5,8,7,9,8,5,Anxious,distant,1
+10346871,2,B,Normal first,understood,pat_non,I felt that <br>they understood me,4,3,12,18,10,5,7,1,0,5,8,7,9,8,5,Non-Anxious,understood,-1
+10346871,2,B,Normal first,understood,pat_non,I felt that <br>they understood me,4,3,12,18,10,5,7,1,0,5,8,7,9,8,5,Anxious,understood,-1
+10346871,5,B,Normal first,different,pat_non,I felt that they were <br>different from me,4,3,12,18,10,5,7,1,0,5,8,7,9,8,5,Non-Anxious,different,-2
+10346871,5,B,Normal first,different,pat_non,I felt that they were <br>different from me,4,3,12,18,10,5,7,1,0,5,8,7,9,8,5,Anxious,different,-2
+10346871,1,B,Normal first,chat-again,pat_non,I would chat <br>with them again,4,3,12,18,10,5,7,1,0,5,8,7,9,8,5,Non-Anxious,chat-again,-2
+10346871,1,B,Normal first,chat-again,pat_non,I would chat <br>with them again,4,3,12,18,10,5,7,1,0,5,8,7,9,8,5,Anxious,chat-again,-2
+10347192,1,A,Normal first,similar,alex_non,I felt that <br>we are similar,1,1,1,4,6,2,9,0,0,1,8,10,8,8,7,Non-Anxious,similar,-2
+10347192,1,A,Normal first,similar,alex_non,I felt that <br>we are similar,1,1,1,4,6,2,9,0,0,1,8,10,8,8,7,Anxious,similar,-2
+10347192,2,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,1,1,1,4,6,2,9,0,0,1,8,10,8,8,7,Non-Anxious,enjoy,-1
+10347192,1,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,1,1,1,4,6,2,9,0,0,1,8,10,8,8,7,Anxious,enjoy,-2
+10347192,3,A,Normal first,distant,alex_non,I felt distant <br>from them,1,1,1,4,6,2,9,0,0,1,8,10,8,8,7,Non-Anxious,distant,0
+10347192,5,A,Normal first,distant,alex_non,I felt distant <br>from them,1,1,1,4,6,2,9,0,0,1,8,10,8,8,7,Anxious,distant,-2
+10347192,1,A,Normal first,understood,alex_non,I felt that <br>they understood me,1,1,1,4,6,2,9,0,0,1,8,10,8,8,7,Non-Anxious,understood,-2
+10347192,1,A,Normal first,understood,alex_non,I felt that <br>they understood me,1,1,1,4,6,2,9,0,0,1,8,10,8,8,7,Anxious,understood,-2
+10347192,4,A,Normal first,different,alex_non,I felt that they were <br>different from me,1,1,1,4,6,2,9,0,0,1,8,10,8,8,7,Non-Anxious,different,-1
+10347192,5,A,Normal first,different,alex_non,I felt that they were <br>different from me,1,1,1,4,6,2,9,0,0,1,8,10,8,8,7,Anxious,different,-2
+10347192,1,A,Normal first,chat-again,alex_non,I would chat <br>with them again,1,1,1,4,6,2,9,0,0,1,8,10,8,8,7,Non-Anxious,chat-again,-2
+10347192,1,A,Normal first,chat-again,alex_non,I would chat <br>with them again,1,1,1,4,6,2,9,0,0,1,8,10,8,8,7,Anxious,chat-again,-2
+10348325,4,A,Normal first,similar,alex_non,I felt that <br>we are similar,19,19,23,31,19,21,13,13,14,17,11,13,13,12,4,Non-Anxious,similar,1
+10348325,5,A,Normal first,similar,alex_non,I felt that <br>we are similar,19,19,23,31,19,21,13,13,14,17,11,13,13,12,4,Anxious,similar,2
+10348325,5,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,19,19,23,31,19,21,13,13,14,17,11,13,13,12,4,Non-Anxious,enjoy,2
+10348325,5,A,Normal first,enjoy,alex_non,I enjoyed our <br>conversation,19,19,23,31,19,21,13,13,14,17,11,13,13,12,4,Anxious,enjoy,2
+10348325,2,A,Normal first,distant,alex_non,I felt distant <br>from them,19,19,23,31,19,21,13,13,14,17,11,13,13,12,4,Non-Anxious,distant,1
+10348325,1,A,Normal first,distant,alex_non,I felt distant <br>from them,19,19,23,31,19,21,13,13,14,17,11,13,13,12,4,Anxious,distant,2
+10348325,5,A,Normal first,understood,alex_non,I felt that <br>they understood me,19,19,23,31,19,21,13,13,14,17,11,13,13,12,4,Non-Anxious,understood,2
+10348325,5,A,Normal first,understood,alex_non,I felt that <br>they understood me,19,19,23,31,19,21,13,13,14,17,11,13,13,12,4,Anxious,understood,2
+10348325,3,A,Normal first,different,alex_non,I felt that they were <br>different from me,19,19,23,31,19,21,13,13,14,17,11,13,13,12,4,Non-Anxious,different,0
+10348325,2,A,Normal first,different,alex_non,I felt that they were <br>different from me,19,19,23,31,19,21,13,13,14,17,11,13,13,12,4,Anxious,different,1
+10348325,5,A,Normal first,chat-again,alex_non,I would chat <br>with them again,19,19,23,31,19,21,13,13,14,17,11,13,13,12,4,Non-Anxious,chat-again,2
+10348325,5,A,Normal first,chat-again,alex_non,I would chat <br>with them again,19,19,23,31,19,21,13,13,14,17,11,13,13,12,4,Anxious,chat-again,2
+10351970,1,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,0,0,0,0,0,0,0,0,0,0,10,9,8,8,6,Anxious,similar,-2
+10351970,1,A,Anxious first,similar,pat_anx,I felt that <br>we are similar,0,0,0,0,0,0,0,0,0,0,10,9,8,8,6,Non-Anxious,similar,-2
+10351970,2,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,0,0,0,0,0,0,0,0,0,0,10,9,8,8,6,Anxious,enjoy,-1
+10351970,3,A,Anxious first,enjoy,pat_anx,I enjoyed our <br>conversation,0,0,0,0,0,0,0,0,0,0,10,9,8,8,6,Non-Anxious,enjoy,0
+10351970,4,A,Anxious first,distant,pat_anx,I felt distant <br>from them,0,0,0,0,0,0,0,0,0,0,10,9,8,8,6,Anxious,distant,-1
+10351970,3,A,Anxious first,distant,pat_anx,I felt distant <br>from them,0,0,0,0,0,0,0,0,0,0,10,9,8,8,6,Non-Anxious,distant,0
+10351970,1,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,0,0,0,0,0,0,0,0,0,0,10,9,8,8,6,Anxious,understood,-2
+10351970,1,A,Anxious first,understood,pat_anx,I felt that <br>they understood me,0,0,0,0,0,0,0,0,0,0,10,9,8,8,6,Non-Anxious,understood,-2
+10351970,5,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,0,0,0,0,0,0,0,0,0,0,10,9,8,8,6,Anxious,different,-2
+10351970,5,A,Anxious first,different,pat_anx,I felt that they were <br>different from me,0,0,0,0,0,0,0,0,0,0,10,9,8,8,6,Non-Anxious,different,-2
+10351970,1,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,0,0,0,0,0,0,0,0,0,0,10,9,8,8,6,Anxious,chat-again,-2
+10351970,1,A,Anxious first,chat-again,pat_anx,I would chat <br>with them again,0,0,0,0,0,0,0,0,0,0,10,9,8,8,6,Non-Anxious,chat-again,-2
+10358415,4,B,Normal first,similar,pat_non,I felt that <br>we are similar,0,0,0,0,0,0,0,0,0,0,7,6,9,8,10,Non-Anxious,similar,1
+10358415,2,B,Normal first,similar,pat_non,I felt that <br>we are similar,0,0,0,0,0,0,0,0,0,0,7,6,9,8,10,Anxious,similar,-1
+10358415,4,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,0,0,0,0,0,0,0,0,0,0,7,6,9,8,10,Non-Anxious,enjoy,1
+10358415,2,B,Normal first,enjoy,pat_non,I enjoyed our <br>conversation,0,0,0,0,0,0,0,0,0,0,7,6,9,8,10,Anxious,enjoy,-1
+10358415,2,B,Normal first,distant,pat_non,I felt distant <br>from them,0,0,0,0,0,0,0,0,0,0,7,6,9,8,10,Non-Anxious,distant,1
+10358415,4,B,Normal first,distant,pat_non,I felt distant <br>from them,0,0,0,0,0,0,0,0,0,0,7,6,9,8,10,Anxious,distant,-1
+10358415,4,B,Normal first,understood,pat_non,I felt that <br>they understood me,0,0,0,0,0,0,0,0,0,0,7,6,9,8,10,Non-Anxious,understood,1
+10358415,2,B,Normal first,understood,pat_non,I felt that <br>they understood me,0,0,0,0,0,0,0,0,0,0,7,6,9,8,10,Anxious,understood,-1
+10358415,2,B,Normal first,different,pat_non,I felt that they were <br>different from me,0,0,0,0,0,0,0,0,0,0,7,6,9,8,10,Non-Anxious,different,1
+10358415,4,B,Normal first,different,pat_non,I felt that they were <br>different from me,0,0,0,0,0,0,0,0,0,0,7,6,9,8,10,Anxious,different,-1
+10358415,4,B,Normal first,chat-again,pat_non,I would chat <br>with them again,0,0,0,0,0,0,0,0,0,0,7,6,9,8,10,Non-Anxious,chat-again,1
+10358415,2,B,Normal first,chat-again,pat_non,I would chat <br>with them again,0,0,0,0,0,0,0,0,0,0,7,6,9,8,10,Anxious,chat-again,-1
+10367266,3,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,3,6,6,9,7,3,5,1,0,3,6,7,9,9,8,Anxious,similar,0
+10367266,3,B,Anxious first,similar,alex_anx,I felt that <br>we are similar,3,6,6,9,7,3,5,1,0,3,6,7,9,9,8,Non-Anxious,similar,0
+10367266,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,3,6,6,9,7,3,5,1,0,3,6,7,9,9,8,Anxious,enjoy,1
+10367266,4,B,Anxious first,enjoy,alex_anx,I enjoyed our <br>conversation,3,6,6,9,7,3,5,1,0,3,6,7,9,9,8,Non-Anxious,enjoy,1
+10367266,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,3,6,6,9,7,3,5,1,0,3,6,7,9,9,8,Anxious,distant,1
+10367266,2,B,Anxious first,distant,alex_anx,I felt distant <br>from them,3,6,6,9,7,3,5,1,0,3,6,7,9,9,8,Non-Anxious,distant,1
+10367266,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,3,6,6,9,7,3,5,1,0,3,6,7,9,9,8,Anxious,understood,1
+10367266,4,B,Anxious first,understood,alex_anx,I felt that <br>they understood me,3,6,6,9,7,3,5,1,0,3,6,7,9,9,8,Non-Anxious,understood,1
+10367266,2,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,3,6,6,9,7,3,5,1,0,3,6,7,9,9,8,Anxious,different,1
+10367266,2,B,Anxious first,different,alex_anx,I felt that they were <br>different from me,3,6,6,9,7,3,5,1,0,3,6,7,9,9,8,Non-Anxious,different,1
+10367266,4,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,3,6,6,9,7,3,5,1,0,3,6,7,9,9,8,Anxious,chat-again,1
+10367266,3,B,Anxious first,chat-again,alex_anx,I would chat <br>with them again,3,6,6,9,7,3,5,1,0,3,6,7,9,9,8,Non-Anxious,chat-again,0
