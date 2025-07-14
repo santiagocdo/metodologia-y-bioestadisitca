@@ -247,17 +247,18 @@ datos$anxiety_group <- ifelse(datos$scl90_anxiety > median(datos$scl90_anxiety),
 ggplot(datos, aes(x=chatAnx,y=aff_score,col=as.factor(anxiety_group))) + 
   stat_summary() + geom_smooth()
 
-model <- lm(aff_score ~ chatAnx, datos)
+model0 <- lm(aff_score ~ chatAnx, datos)
+summary(model0)
 
-hist(model$residuals)
-sum(model$residuals)
+hist(model0$residuals)
+sum(model0$residuals)
 
-ks.test(model$residuals[!duplicated(model$residuals)],"pnorm")
+ks.test(model0$residuals[!duplicated(model0$residuals)],"pnorm")
 
 library(lmerTest)
 library(lme4)
-model <- lmer(aff_score ~ chatAnx + (chatAnx|participant_id), datos)
-summary(model)
+model1 <- lmer(aff_score ~ chatAnx + (chatAnx|participant_id), datos)
+summary(model1)
 
 # as.data.frame(ranef(model)$participant)
 datos$predicted_outcome <- predict(model)
@@ -277,3 +278,23 @@ pR2 <- ggplot(datos, aes(x = chatAnx, y = aff_score)) +
 
 library(ggpubr)
 ggarrange(pF, pR, pR2, ncol=3)
+
+
+
+
+# # # 2 logistic regression # # ####
+p <- seq(.01, .99, by=.01)
+p <- rep(c(.3,.7),each=50)
+p <- rbinom(99,1,p[1:99])
+
+x <- seq(-10, 10, by=20/(length(p)-1))
+log <- 1/(1+exp(-1*x))
+
+data <- data.frame(y=p, x=x, y2=log)
+
+library(ggplot2)
+ggplot(data, aes(x=x,y=y)) + # 
+  coord_cartesian(y=c(0,1),x=c(-10,10)) +
+  geom_line(aes(x=x,y=log)) +
+  geom_point() 
+  # geom_smooth(method="lm",se=F,col="black")

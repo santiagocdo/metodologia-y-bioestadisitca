@@ -1,3 +1,5 @@
+# NOTA general del script.
+
 # # # 1. read the data base  # # ####
 datos <- read.csv("ejercicio1.csv")
 
@@ -140,10 +142,12 @@ summary(model)
 m0 <- lm(aff_score ~ 1, datos)
 
 # my model
-m1 <- lm(aff_score ~ chatAnx, datos)
+m1 <- lm(aff_score ~ 1 + chatAnx, datos)
 
 # comparing two models with a likelihood ratio test
 anova(m0, m1)
+# or
+anova(m1)
 
 # other alternatives to compare models
 # log-likelihood or model evidence (higher=better)

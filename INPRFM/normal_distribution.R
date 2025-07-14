@@ -14,9 +14,9 @@ n_wsample <- 30
 mean_samples <- rep(NA, N_samples)
 
 # example for one sample with many distributions
-sample <- rnorm(n_wsample)
+# sample <- rnorm(n_wsample)
 # sample <- runif(n_wsample,-1,1)
-# sample <- rbeta(n_wsample,.5,.5)
+sample <- rbeta(n_wsample,.5,.5)
 # sample <- rexp(n_wsample,1)
 # sample <- rgamma(n_wsample,2,2)
 # sample <- rpois(n_wsample, lambda=1)
@@ -27,7 +27,7 @@ hist(sample)
 # built a for loop
 for (i in 1:N_samples) {
   # one sample simulation, choose your distribution
-  sample <- rnorm(n_wsample,.5,.5)
+  sample <- rbeta(n_wsample,.5,.5)
   # average that sample and save it in mean_samples
   mean_samples[i] <- mean(sample)
 }
