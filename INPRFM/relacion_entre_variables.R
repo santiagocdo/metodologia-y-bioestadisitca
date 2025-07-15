@@ -23,6 +23,7 @@ hist(datos$bfi10_extraversion)
 
 # # # 3. Descriptive Statistics # # ####
 # filrar la base de datos para tener un participante por fila
+datos2 <- datos[datos$chat=="Anxious",]
 datos2 <- datos[duplicated(datos$participant_id),]
 
 # what are the descriptive statistics for age and sex?
